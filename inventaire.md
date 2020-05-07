@@ -6,7 +6,7 @@
 
 {% file src=".gitbook/assets/arkinventory.zip" %}
 
-{% file src=".gitbook/assets/atlasloot.zip" %}
+{% file src=".gitbook/assets/atlasloot \(1\).zip" %}
 
 {% file src=".gitbook/assets/autorepair.zip" %}
 

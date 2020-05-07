@@ -4,7 +4,7 @@
 * [Actions Bars](actions-bars.md)
 * [Economie](economie.md)
 * [Inventaire](inventaire.md)
-* [Aide aux rencontres PvE](aide-aux-rencontres-pve.md)
+* [Aide aux boss](aide-aux-rencontres-pve.md)
 * [Buffs & Debuffs](buffs-and-debuffs.md)
 * [Classes](classes.md)
 * [Untitled](untitled.md)
