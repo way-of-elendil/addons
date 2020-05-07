@@ -1,6 +1,10 @@
 # Aide aux boss
 
+## AtlasLoot
+
 {% file src=".gitbook/assets/atlasloot.zip" %}
+
+## BigWigs
 
 {% file src=".gitbook/assets/bigwigs.zip" %}
 
