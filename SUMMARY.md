@@ -13,7 +13,7 @@
 * [Courriers](courriers.md)
 * [Map & Minimap](map-and-minimap.md)
 * [Multiboxing](multiboxing.md)
-* [Notes, Checklists & Copy/Paste](notes-checklists-and-copy-paste.md)
+* [Notes, Checklists & copier/coller](notes-checklists-and-copy-paste.md)
 * [Plugins & Libraries](plugins-and-libraries.md)
 * [Métiers](metiers.md)
 * [PvP](pvp.md)

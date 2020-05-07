@@ -1,5 +1,6 @@
 # Courriers
 
-{% file src=".gitbook/assets/BetterInbox.zip" caption="BetterInbox" %}
+{% file src=".gitbook/assets/betterinbox.zip" caption="BetterInbox" %}
 
-{% file src=".gitbook/assets/Postal.zip" caption="Postal" %}
+{% file src=".gitbook/assets/postal.zip" caption="Postal" %}
+

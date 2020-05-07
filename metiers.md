@@ -1,77 +1,74 @@
 # Métiers
 
-{% file src=".gitbook/assets/AckisRecipeList.zip" caption="AckisRecipeList" %}
+{% file src=".gitbook/assets/ackisrecipelist.zip" caption="AckisRecipeList" %}
 
-{% file src=".gitbook/assets/AdvancedTradeSkillWindow.zip" caption="AdvancedTradeSkillWindow" %}
+{% file src=".gitbook/assets/advancedtradeskillwindow.zip" caption="AdvancedTradeSkillWindow" %}
 
-{% file src=".gitbook/assets/Bloodhound.zip" caption="Bloodhound" %}
+{% file src=".gitbook/assets/bloodhound.zip" caption="Bloodhound" %}
 
-{% file src=".gitbook/assets/EnhancedTradeSkillUI.zip" caption="EnhancedTradeSkillUI" %}
+{% file src=".gitbook/assets/enhancedtradeskillui.zip" caption="EnhancedTradeSkillUI" %}
 
-{% file src=".gitbook/assets/EriksShoppingList.zip" caption="EriksShoppingList" %}
+{% file src=".gitbook/assets/eriksshoppinglist.zip" caption="EriksShoppingList" %}
 
-{% file src=".gitbook/assets/FishermansFriend.zip" caption="FishermansFriend" %}
+{% file src=".gitbook/assets/fishermansfriend.zip" caption="FishermansFriend" %}
 
-{% file src=".gitbook/assets/FishingAce.zip" caption="FishingAce" %}
+{% file src=".gitbook/assets/fishingace.zip" caption="FishingAce" %}
 
-{% file src=".gitbook/assets/FishingBuddy.zip" caption="FishingBuddy" %}
+{% file src=".gitbook/assets/fishingbuddy.zip" caption="FishingBuddy" %}
 
-{% file src=".gitbook/assets/FishWarden.zip" caption="FishWarden" %}
+{% file src=".gitbook/assets/fishwarden.zip" caption="FishWarden" %}
 
-{% file src=".gitbook/assets/Gatherer.zip" caption="Gatherer" %}
+{% file src=".gitbook/assets/gatherer.zip" caption="Gatherer" %}
 
-{% file src=".gitbook/assets/GatherMate.zip" caption="GatherMate" %}
+{% file src=".gitbook/assets/gathermate.zip" caption="GatherMate" %}
 
-{% file src=".gitbook/assets/GemCensus.zip" caption="GemCensus" %}
+{% file src=".gitbook/assets/gemcensus.zip" caption="GemCensus" %}
 
-{% file src=".gitbook/assets/GemHelper.zip" caption="GemHelper" %}
+{% file src=".gitbook/assets/gemhelper.zip" caption="GemHelper" %}
 
-{% file src=".gitbook/assets/GnomeWorks.zip" caption="GnomeWorks" %}
+{% file src=".gitbook/assets/gnomeworks.zip" caption="GnomeWorks" %}
 
-{% file src=".gitbook/assets/Jigsaw.zip" caption="Jigsaw" %}
+{% file src=".gitbook/assets/jigsaw.zip" caption="Jigsaw" %}
 
-{% file src=".gitbook/assets/KevToolQueue.zip" caption="KevToolQueue" %}
+{% file src=".gitbook/assets/kevtoolqueue.zip" caption="KevToolQueue" %}
 
-{% file src=".gitbook/assets/MillHelp.zip" caption="MillHelp" %}
+{% file src=".gitbook/assets/millhelp.zip" caption="MillHelp" %}
 
-{% file src=".gitbook/assets/Molinari.zip" caption="Molinari" %}
+{% file src=".gitbook/assets/molinari.zip" caption="Molinari" %}
 
-{% file src=".gitbook/assets/MrTrader.zip" caption="MrTrader" %}
+{% file src=".gitbook/assets/mrtrader.zip" caption="MrTrader" %}
 
-{% file src=".gitbook/assets/Multitracker.zip" caption="Multitracker" %}
+{% file src=".gitbook/assets/multitracker.zip" caption="Multitracker" %}
 
-{% file src=".gitbook/assets/Panda.zip" caption="Panda" %}
+{% file src=".gitbook/assets/panda.zip" caption="Panda" %}
 
-{% file src=".gitbook/assets/Producer.zip" caption="Producer" %}
+{% file src=".gitbook/assets/producer.zip" caption="Producer" %}
 
-{% file src=".gitbook/assets/ProfessionsBook.zip" caption="ProfessionsBook" %}
+{% file src=".gitbook/assets/professionsbook.zip" caption="ProfessionsBook" %}
 
-{% file src=".gitbook/assets/ProfessionsVault.zip" caption="ProfessionsVault" %}
+{% file src=".gitbook/assets/professionsvault.zip" caption="ProfessionsVault" %}
 
-{% file src=".gitbook/assets/RecipeBook.zip" caption="RecipeBook" %}
+{% file src=".gitbook/assets/recipebook.zip" caption="RecipeBook" %}
 
-{% file src=".gitbook/assets/RecipeRadar.zip" caption="RecipeRadar" %}
+{% file src=".gitbook/assets/reciperadar.zip" caption="RecipeRadar" %}
 
-{% file src=".gitbook/assets/ScrollMaster.zip" caption="ScrollMaster" %}
+{% file src=".gitbook/assets/scrollmaster.zip" caption="ScrollMaster" %}
 
-{% file src=".gitbook/assets/Sifter.zip" caption="Sifter" %}
+{% file src=".gitbook/assets/sifter.zip" caption="Sifter" %}
 
-{% file src=".gitbook/assets/SimpleTradeskill.zip" caption="SimpleTradeskill" %}
+{% file src=".gitbook/assets/simpletradeskill.zip" caption="SimpleTradeskill" %}
 
-{% file src=".gitbook/assets/Skillet.zip" caption="Skillet" %}
+{% file src=".gitbook/assets/skillet.zip" caption="Skillet" %}
 
-{% file src=".gitbook/assets/Tracking-Cycler.zip" caption="Tracking-Cycler" %}
+{% file src=".gitbook/assets/tracking-cycler.zip" caption="Tracking-Cycler" %}
 
-{% file src=".gitbook/assets/TrackingChanger.zip" caption="TrackingChanger" %}
+{% file src=".gitbook/assets/trackingchanger.zip" caption="TrackingChanger" %}
 
-{% file src=".gitbook/assets/TrackingPlus.zip" caption="TrackingPlus" %}
+{% file src=".gitbook/assets/trackingplus.zip" caption="TrackingPlus" %}
 
-{% file src=".gitbook/assets/TradeSkillDW.zip" caption="TradeSkillDW" %}
+{% file src=".gitbook/assets/tradeskilldw.zip" caption="TradeSkillDW" %}
 
-{% file src=".gitbook/assets/TradeskillHD.zip" caption="TradeskillHD" %}
+{% file src=".gitbook/assets/tradeskillhd.zip" caption="TradeskillHD" %}
 
-{% file src=".gitbook/assets/TradeskillInfo.zip" caption="TradeskillInfo" %}
+{% file src=".gitbook/assets/tradeskillinfo.zip" caption="TradeskillInfo" %}
 
-{% file src=".gitbook/assets/TradeSkillMaster.zip" caption="TradeSkillMaster" %}
-
-            

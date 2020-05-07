@@ -1,11 +1,12 @@
-# Notes, Checklists & Copy/Paste
+# Notes, Checklists & copier/coller
 
-{% file src=".gitbook/assets/Chronicle.zip" caption="Chronicle" %}
+{% file src=".gitbook/assets/chronicle.zip" caption="Chronicle" %}
 
-{% file src=".gitbook/assets/CopyThat!.zip" caption="CopyThat!" %}
+{% file src=".gitbook/assets/copythat.zip" caption="CopyThat!" %}
 
-{% file src=".gitbook/assets/DailyChecklist.zip" caption="DailyChecklist" %}
+{% file src=".gitbook/assets/dailychecklist.zip" caption="DailyChecklist" %}
 
-{% file src=".gitbook/assets/DailyTodos.zip" caption="DailyTodos" %}
+{% file src=".gitbook/assets/dailytodos.zip" caption="DailyTodos" %}
 
-{% file src=".gitbook/assets/EnhancedColourPicker.zip" caption="EnhancedColourPicker" %}
+{% file src=".gitbook/assets/enhancedcolourpicker.zip" caption="EnhancedColourPicker" %}
+

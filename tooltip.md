@@ -1,31 +1,30 @@
 # Tooltip
 
-{% file src=".gitbook/assets/ArmoryQuickLink.zip" caption="ArmoryQuickLink" %}
+{% file src=".gitbook/assets/armoryquicklink.zip" caption="ArmoryQuickLink" %}
 
-{% file src=".gitbook/assets/CharacterProfiler.zip" caption="CharacterProfiler" %}
+{% file src=".gitbook/assets/characterprofiler.zip" caption="CharacterProfiler" %}
 
-{% file src=".gitbook/assets/EquipCompare.zip" caption="EquipCompare" %}
+{% file src=".gitbook/assets/equipcompare.zip" caption="EquipCompare" %}
 
-{% file src=".gitbook/assets/GearScore.zip" caption="GearScore" %}
+{% file src=".gitbook/assets/gearscore.zip" caption="GearScore" %}
 
-{% file src=".gitbook/assets/GearScoreLite.zip" caption="GearScoreLite" %}
+{% file src=".gitbook/assets/gearscorelite.zip" caption="GearScoreLite" %}
 
-{% file src=".gitbook/assets/Icetip.zip" caption="Icetip" %}
+{% file src=".gitbook/assets/icetip.zip" caption="Icetip" %}
 
-{% file src=".gitbook/assets/InspectEquip.zip" caption="InspectEquip" %}
+{% file src=".gitbook/assets/inspectequip.zip" caption="InspectEquip" %}
 
-{% file src=".gitbook/assets/Mendeleev.zip" caption="Mendeleev" %}
+{% file src=".gitbook/assets/mendeleev.zip" caption="Mendeleev" %}
 
-{% file src=".gitbook/assets/MobInfo2.zip" caption="MobInfo2" %}
+{% file src=".gitbook/assets/mobinfo2.zip" caption="MobInfo2" %}
 
-{% file src=".gitbook/assets/MoncaiCompare.zip" caption="MoncaiCompare" %}
+{% file src=".gitbook/assets/moncaicompare.zip" caption="MoncaiCompare" %}
 
-{% file src=".gitbook/assets/Pawn.zip" caption="Pawn" %}
+{% file src=".gitbook/assets/pawn.zip" caption="Pawn" %}
 
-{% file src=".gitbook/assets/RatingBuster.zip" caption="RatingBuster" %}
+{% file src=".gitbook/assets/ratingbuster.zip" caption="RatingBuster" %}
 
-{% file src=".gitbook/assets/SilverDragon.zip" caption="SilverDragon" %}
+{% file src=".gitbook/assets/tiptop.zip" caption="TipTop" %}
 
-{% file src=".gitbook/assets/TipTop.zip" caption="TipTop" %}
+{% file src=".gitbook/assets/weightswatcher.zip" caption="WeightsWatcher" %}
 
-{% file src=".gitbook/assets/WeightsWatcher.zip" caption="WeightsWatcher" %}

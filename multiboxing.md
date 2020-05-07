@@ -1,7 +1,6 @@
 # Multiboxing
 
-{% file src=".gitbook/assets/Jamba.zip" caption="Jamba" %}
+{% file src=".gitbook/assets/jamba.zip" caption="Jamba" %}
 
-{% file src=".gitbook/assets/Zolotips.zip" caption="Zolotips" %}
+{% file src=".gitbook/assets/zolotips.zip" caption="Zolotips" %}
 
-            

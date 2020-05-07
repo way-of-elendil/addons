@@ -27,3 +27,4 @@
 {% file src=".gitbook/assets/weakauras2.zip" caption="WeakAuras2" %}
 
 {% file src=".gitbook/assets/whammy.zip" caption="Whammy" %}
+

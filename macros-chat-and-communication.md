@@ -1,25 +1,26 @@
 # Macros, Chat & Communication
 
-{% file src=".gitbook/assets/AdvancedIconSelector.zip" caption="AdvancedIconSelector" %}
+{% file src=".gitbook/assets/advancediconselector.zip" caption="AdvancedIconSelector" %}
 
-{% file src=".gitbook/assets/BadBoy.zip" caption="BadBoy" %}
+{% file src=".gitbook/assets/badboy.zip" caption="BadBoy" %}
 
-{% file src=".gitbook/assets/BadBoy_CCleaner.zip" caption="BadBoy_CCleaner" %}
+{% file src=".gitbook/assets/badboy\_ccleaner.zip" caption="BadBoy\_CCleaner" %}
 
-{% file src=".gitbook/assets/BadBoy_Guilded.zip" caption="BadBoy_Guilded" %}
+{% file src=".gitbook/assets/badboy\_guilded.zip" caption="BadBoy\_Guilded" %}
 
-{% file src=".gitbook/assets/BadBoy_Levels.zip" caption="BadBoy_Levels" %}
+{% file src=".gitbook/assets/badboy\_levels.zip" caption="BadBoy\_Levels" %}
 
-{% file src=".gitbook/assets/BindPad.zip" caption="BindPad" %}
+{% file src=".gitbook/assets/bindpad.zip" caption="BindPad" %}
 
-{% file src=".gitbook/assets/CensusPlus.zip" caption="CensusPlus" %}
+{% file src=".gitbook/assets/censusplus.zip" caption="CensusPlus" %}
 
-{% file src=".gitbook/assets/IgnoreMore.zip" caption="IgnoreMore" %}
+{% file src=".gitbook/assets/ignoremore.zip" caption="IgnoreMore" %}
 
-{% file src=".gitbook/assets/MacroBank.zip" caption="MacroBank" %}
+{% file src=".gitbook/assets/macrobank.zip" caption="MacroBank" %}
 
-{% file src=".gitbook/assets/MacroForm.zip" caption="MacroForm" %}
+{% file src=".gitbook/assets/macroform.zip" caption="MacroForm" %}
 
-{% file src=".gitbook/assets/SpamThrottle.zip" caption="SpamThrottle" %}
+{% file src=".gitbook/assets/spamthrottle.zip" caption="SpamThrottle" %}
 
-{% file src=".gitbook/assets/SuperDuperMacro.zip" caption="SuperDuperMacro" %}
+{% file src=".gitbook/assets/superdupermacro.zip" caption="SuperDuperMacro" %}
+
