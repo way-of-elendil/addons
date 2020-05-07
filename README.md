@@ -34,9 +34,17 @@ Lancer World of Warcraft et arrêtez vous sur la page qui affiche vos personnage
 
 Cochez simplement votre AddOn pour l'activer au sein du jeu.
 
+{% hint style="danger" %}
+Si vous ne voyez pas votre AddOn dans la liste, cochez "**Lancer les add-ons périmés**" visible en haut à droite de cette fenêtre. 
+{% endhint %}
+
 ![](.gitbook/assets/screenshot_922.png)
 
-{% hint style="danger" %}
-Si vous ne voyez pas votre AddOn dans la liste, cochez "Lancer les add-ons périmés" visible en haut à droite de cette fenêtre. 
-{% endhint %}
+Si votre AddOn n'apparait toujours pas dans la liste, il n'est peut être pas compatible avec l'extension Wrath of The Lich King. Il vous faudra trouver une version compatible ou une alternative.
+
+Normalement tous les AddOns proposés par Elendil sont compatibles avec Wrath of The Lich King, si vous constatez une anomalie [merci de venir nous la signaler sur Discord.](https://discord.gg/bK8rRN3) 
+
+## Ajouter un AddOn dans la liste proposée par Way of Elendil
+
+Si vous avez un AddOn que vous ne trouvez pas dans la liste et que vous estimez pertinent, [contactez l'équipe de Way of Elendil sur Discord](https://discord.gg/bK8rRN3) pour leur proposer votre AddOn afin qu'il soit rajouté à la liste des AddOns disponibles au téléchargement.
 
