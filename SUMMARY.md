@@ -1,4 +1,11 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Hauts-faits](README.md)
+* [Actions Bars](actions-bars.md)
+* [Economie](economie.md)
+* [Inventaire](inventaire.md)
+* [Aide aux rencontres PvE](aide-aux-rencontres-pve.md)
+* [Buffs & Debuffs](buffs-and-debuffs.md)
+* [Classes](classes.md)
+* [Untitled](untitled.md)
 
