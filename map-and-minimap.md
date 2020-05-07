@@ -28,18 +28,6 @@
 
 {% file src=".gitbook/assets/routes.zip" caption="Routes" %}
 
-## Sexymap
-
-{% tabs %}
-{% tab title="Description" %}
-Sexymap est un addon qui modifie la minimap en haut à droite de votre écran de jeu, en effet celui-ci crée une animation graphique autour de celle-ci.
-{% endtab %}
-
-{% tab title="Visuels" %}
-![](.gitbook/assets/sexymap3.jpg)
-{% endtab %}
-{% endtabs %}
-
 {% file src=".gitbook/assets/sexymap.zip" caption="SexyMap" %}
 
 {% file src=".gitbook/assets/worldexplorer.zip" caption="WorldExplorer" %}
