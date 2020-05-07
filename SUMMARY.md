@@ -7,7 +7,7 @@
 * [Aide aux boss](aide-aux-rencontres-pve.md)
 * [Buffs & Debuffs](buffs-and-debuffs.md)
 * [Classes](classes.md)
-* [Combat](untitled.md)
+* [Combat](combat.md)
 * [Data export](data-export.md)
 * [Macros, Chat & Communication](macros-chat-and-communication.md)
 * [Courriers](courriers.md)
