@@ -4,5 +4,5 @@ description: >-
   Wrath of the Lich King
 ---
 
-# Bienvenue
+# Addons World of Warcraft compatibles Wrath of the Lich King 3.3.5
 

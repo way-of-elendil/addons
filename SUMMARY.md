@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bienvenue](README.md)
+* [Addons World of Warcraft compatibles Wrath of the Lich King 3.3.5](README.md)
 * [Aide aux boss](aide-aux-rencontres-pve.md)
 * [Barres d'action](actions-bars.md)
 * [Buffs & Debuffs](buffs-and-debuffs.md)
