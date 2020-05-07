@@ -30,6 +30,12 @@
 
 ## Sexymap
 
+|  |  |
+| :--- | :--- |
+| Sexymap est un addon qui modifie la minimap en haut à droite de votre écran de jeu, en effet celui-ci crée une animation graphique autour de celle-ci. | ![](.gitbook/assets/diablo.png)  |
+
+
+
 {% tabs %}
 {% tab title="Description" %}
 Sexymap est un addon qui modifie la minimap en haut à droite de votre écran de jeu, en effet celui-ci crée une animation graphique autour de celle-ci.
