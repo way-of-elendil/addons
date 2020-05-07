@@ -6,6 +6,10 @@ description: >-
 
 # Les Addons compatibles 3.3.5
 
+{% hint style="info" %}
+Way of Elendil propose cette liste d'addons mais n'est en aucun cas responsable de ces addons. Nous ne pouvons pas vous assister pas dans le paramétrage, et en cas de dysfonctionnement nous n'engageons aucune responsabilité.
+{% endhint %}
+
 ## Installer un AddOn sur World of Warcraft 
 
 Téléchargez l'addon de votre choix au format ZIP, puis dezippez le.
