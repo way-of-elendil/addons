@@ -1,4 +1,4 @@
-# Actions Bars
+# Barres d'action
 
 {% file src=".gitbook/assets/actionbarsaver.zip" %}
 
