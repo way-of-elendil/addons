@@ -24,7 +24,7 @@
 
 {% file src=".gitbook/assets/drdamage.zip" %}
 
-{% file src=".gitbook/assets/farmit2.zip" %}
+{% file src=".gitbook/assets/farmit2 \(1\).zip" %}
 
 {% file src=".gitbook/assets/lunarsphere.zip" %}
 
