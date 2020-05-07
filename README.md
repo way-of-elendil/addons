@@ -1,4 +1,4 @@
-# Hauts-faits
+# Discover
 
 {% file src=".gitbook/assets/autogratzer.zip" caption="AutoGratzer" %}
 

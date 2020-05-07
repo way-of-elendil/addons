@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Hauts-faits](README.md)
+* [Discover](README.md)
+* [Hauts-faits](hauts-faits.md)
 * [Barres d'action](actions-bars.md)
 * [Economie](economie.md)
 * [Inventaire](inventaire.md)
