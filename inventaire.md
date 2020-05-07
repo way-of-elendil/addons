@@ -121,6 +121,3 @@
 {% file src=".gitbook/assets/xloot.zip" %}
 
 {% file src=".gitbook/assets/xlootmonitor.zip" %}
-
-
-

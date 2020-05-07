@@ -1,7 +1,5 @@
 # Economie
 
-
-
 {% file src=".gitbook/assets/accountant\_classic.zip" %}
 
 {% file src=".gitbook/assets/accountant.zip" %}
@@ -43,6 +41,3 @@
 {% file src=".gitbook/assets/tradeskillmaster.zip" %}
 
 {% file src=".gitbook/assets/xmerchant.zip" %}
-
-
-
