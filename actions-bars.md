@@ -157,7 +157,7 @@ OPie est un module complémentaire de liaison d'action radiale : il vous permet 
 
 ## Speedy Actions
 
-Simple addon, tout ce qu'il fait, c'est accélérer le déclenchement des actions en les faisant se produire lorsque vous appuyez sur une touche ou que vous appuyez sur votre souris plutôt que de les relâcher. Il est configuré pour fonctionner avec toutes les barres d'action par défaut de Blizzard ainsi qu'avec l'invocation et le rappel de totems. Il fonctionnera automatiquement avec tout addon qui utilise le système Blizzard par défaut pour les raccourcis clavier \(Menu Jeu -&gt; Raccourcis clavier\). Même si un addon ne fonctionne pas avec les actions rapides, je peux ajouter un module pour le faire fonctionner, voir ci-dessous.
+Simple addon, tout ce qu'il fait, c'est accélérer le déclenchement des actions en les faisant se produire lorsque vous appuyez sur une touche ou que vous appuyez sur votre souris plutôt que de les relâcher. Il est configuré pour fonctionner avec toutes les barres d'action par défaut de Blizzard ainsi qu'avec l'invocation et le rappel de totems. Il fonctionnera automatiquement avec tout addon qui utilise le système Blizzard par défaut pour les raccourcis clavier \(Menu Jeu -&gt; Raccourcis clavier\).
 
 {% file src=".gitbook/assets/speedyactions.zip" %}
 
