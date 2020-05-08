@@ -19,8 +19,3 @@
 ## LootPlan
 
 {% file src=".gitbook/assets/lootplan.zip" caption="LootPlan" %}
-
-## TitanPanel
-
-{% file src=".gitbook/assets/titanpanel.zip" caption="TitanPanel" %}
-

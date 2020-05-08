@@ -12,10 +12,6 @@
 
 {% file src=".gitbook/assets/arkinventory.zip" %}
 
-## atlasloot
-
-{% file src=".gitbook/assets/atlasloot \(1\).zip" %}
-
 ## autorepair
 
 {% file src=".gitbook/assets/autorepair.zip" %}

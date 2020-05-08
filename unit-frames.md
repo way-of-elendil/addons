@@ -20,21 +20,9 @@
 
 {% file src=".gitbook/assets/grid2.zip" caption="Grid2" %}
 
-## HealBot
-
-{% file src=".gitbook/assets/healbot.zip" caption="HealBot" %}
-
-## IceHUD
-
-{% file src=".gitbook/assets/icehud.zip" caption="IceHUD" %}
-
 ## KuiNameplates
 
 {% file src=".gitbook/assets/kuinameplates.zip" caption="KuiNameplates" %}
-
-## Perl
-
-{% file src=".gitbook/assets/perl.zip" caption="Perl" %}
 
 ## PitBull4
 
@@ -75,8 +63,3 @@
 ## VuhDo
 
 {% file src=".gitbook/assets/vuhdo.zip" caption="VuhDo" %}
-
-## XPerl
-
-{% file src=".gitbook/assets/xperl.zip" caption="XPerl" %}
-
