@@ -36,7 +36,7 @@ Vend tout les objets "gris" de votre inventaire, paramétrable pour un meilleur 
 
 {% file src=".gitbook/assets/baggins.zip" %}
 
-## Bagnon 2
+## Bagnon
 
 {% hint style="danger" %}
 Déconseillé par l'équipe : Provoque des **problèmes visuels** de disparition d'objets lorsque l'addon est mal configuré. \(_Il suffit de le désactiver pour revoir ses items disparus\)._
