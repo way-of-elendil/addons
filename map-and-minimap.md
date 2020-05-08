@@ -56,6 +56,8 @@
 
 Sexymap est un addon qui modifie la minimap en haut à droite de votre écran de jeu, en effet celui-ci crée une animation graphique autour de celle-ci et supprime le menu des addons qui viennent se greffer autour de la minipap en temps normal, cependant lorsque vous passez votre souris dessus ils re-apparaissent.
 
+![](.gitbook/assets/az_mapunfaded.jpg)
+
 {% file src=".gitbook/assets/sexymap.zip" caption="SexyMap" %}
 
 ## WorldExplorer

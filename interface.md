@@ -84,7 +84,13 @@ Spartan UI est, comme son nom le laisse supposer, un modificateur d'interface. A
 
 ## TitanPanel
 
+{% hint style="success" %}
+Conseillé et validé par l'équipe !
+{% endhint %}
+
 Titan Panel est une barre qui se place au dessus du jeu \(voir screenshot ci-contre\), elle permet notamment de calculer le temps restant avant le passage d'un level \(calculé sur la moyenne d'XP que vous récoltez\), elle vous indique le degré de durabilité de votre stuff, le nombre de place restant dans votre sac,... bref une multitude d'information et de statistique sont présente sur cette barre, qui est plus un gadget qu'un add-on obligatoire.
+
+![](.gitbook/assets/titanpanel.jpg)
 
 {% file src=".gitbook/assets/titanpanel.zip" caption="TitanPanel" %}
 
