@@ -14,7 +14,13 @@ description: Pour vous permettre de manipuler vos barres de sorts à la volée
 
 ## bartender
 
+{% hint style="success" %}
+Conseillé et validé par l'équipe !
+{% endhint %}
+
 Bartender v4 est un modificateur de barre d'action, celui replace toute vos barres au centre, ainsi vous ne perdrez plus de temps à trop déplacer votre souris pour effectuer vos sorts, cependant l'addon est un peu déroutant au début, néanmoins avec un peu d'entrainement vous trouverez vite vos marques et gagnerez un temps précieux si vous ne jouez pas au clavier.
+
+![](.gitbook/assets/bartender.jpg)
 
 {% file src=".gitbook/assets/bartender4.zip" %}
 
