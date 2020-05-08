@@ -4,15 +4,36 @@ description: Pour vous permettre de manipuler vos barres de sorts à la volée
 
 # Barres d'action
 
-## actionbarsaver
+## ActionBarSaver
+
+Petit mod rapide, vous permet de configurer différents profils pour vos barres d'action. Il s'adresse principalement aux classes hybrides qui veulent pouvoir se respecter sans passer 10 à 20 minutes à configurer leurs barres d'action. Il suffit de taper /abs save  et cela enregistrera l'emplacement de tous vos sorts, macros et éléments.
+
+Par exemple, si vous êtes actuellement un druide sauvage, vous pouvez taper /abs save feral puis respec to Resto et configurer vos barres d'action, puis taper /abs save resto une fois que vous revenez respec to Feral, vous pouvez alors réentraîner tous vos sorts et taper /abs restore feral et vous obtiendrez votre configuration de sauvage sans avoir à trouver où vous avez placé les choses.
+
+Fonctionne avec n'importe quelle interface personnalisée comme les bongos, à condition de ne pas utiliser plus que les 120 boutons d'action standard. Ceux qui offrent des fonctionnalités permettant de dépasser 120 ne feront que les 120 standards pour être sauvegardés/restaurés. 
+
+
+
+
 
 {% file src=".gitbook/assets/actionbarsaver.zip" %}
 
 ## autobar
 
+AutoBar est un mod multi-barres qui ajoute automatiquement des potions, de l'eau, de la nourriture, des quêtes et d'autres éléments que vous spécifiez dans les boutons pour une utilisation facile.
+
+* N'épuise pas les slots d'action. 
+* Vous pouvez créer vos propres catégories d'objets, en y faisant glisser des objets provenant de sacs ou des sorts provenant de livres de sorts. 
+* Vous pouvez créer des boutons personnalisés qui contiennent une ou plusieurs catégories personnalisées ou intégrées. 
+* Vous pouvez créer des barres personnalisées pour organiser vos boutons en fonction de vos besoins d'interface.
+
+WoW propose des milliers d'articles que vous pouvez obtenir. AutoBar organise automatiquement les articles fréquemment utilisés pour vous, ce qui vous évite de glisser des objets de vos sacs vers une barre d'action. Comme AutoBar n'utilise pas les emplacements d'action limités disponibles, vous pouvez les sauvegarder pour vos sorts et vos capacités.
+
+![](.gitbook/assets/autobar.jpg)
+
 {% file src=".gitbook/assets/autobar.zip" %}
 
-## bartender
+## bartender ✅ 
 
 {% hint style="success" %}
 Conseillé et validé par l'équipe !
