@@ -1,3 +1,7 @@
+---
+description: Réinventons le sac à dos façon Decathlon
+---
+
 # Inventaire
 
 ## adibags

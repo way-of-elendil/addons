@@ -1,3 +1,7 @@
+---
+description: Assistance au Player versus Player
+---
+
 # PvP
 
 ## Capping Battleground Timers

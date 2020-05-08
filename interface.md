@@ -1,3 +1,7 @@
+---
+description: Modifiez votre interface selon vos moindres désirs
+---
+
 # Interface
 
 ## Align

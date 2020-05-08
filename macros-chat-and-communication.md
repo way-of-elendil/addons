@@ -1,3 +1,7 @@
+---
+description: Refonte des fenêtres de chat entre joueurs
+---
+
 # Macros, Chat & Communication
 
 ## AdvancedIconSelector

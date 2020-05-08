@@ -1,3 +1,9 @@
+---
+description: >-
+  L'art de gérer plusieurs personnages simultanément (on rappelle que c'est
+  interdit en PvP)
+---
+
 # Multiboxing
 
 ## Jamba

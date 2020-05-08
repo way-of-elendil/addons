@@ -1,3 +1,7 @@
+---
+description: 'Une To Do List en jeu, c''est possible, si si'
+---
+
 # Notes, Checklists & copier/coller
 
 ## Chronicle

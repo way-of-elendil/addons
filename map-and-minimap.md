@@ -1,3 +1,9 @@
+---
+description: >-
+  Il suffit de changer de regard sur le monde pour le percevoir de façon plus
+  belle
+---
+
 # Map & Minimap
 
 ## AlphaMap3

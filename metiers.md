@@ -1,3 +1,7 @@
+---
+description: Où comment devenir en maître en tous les métiers d'Azeroth
+---
+
 # Métiers
 
 ## Ackis Recipe List
