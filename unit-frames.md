@@ -16,9 +16,17 @@ Permet de créer des raccourcis à la souris pour changer de cible rapidement.
 
 ## Grid
 
+Vue de raid en grille
+
+![](.gitbook/assets/grid-scr-1.png)
+
 {% file src=".gitbook/assets/grid.zip" caption="Grid" %}
 
 ## Grid2
+
+Vue de raid en grille
+
+![](.gitbook/assets/636142352782483279.jpg)
 
 {% file src=".gitbook/assets/grid2.zip" caption="Grid2" %}
 

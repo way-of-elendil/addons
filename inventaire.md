@@ -8,15 +8,23 @@
 
 {% file src=".gitbook/assets/altoholic.zip" %}
 
-## arkinventory
+## ArkInventory
+
+Léger et facile à configurer, cet addon vous permet de créer des catégories de sacs et offre ainsi une meilleure lisibilité de votre inventaire. De plus, chaque nouvel objet sera automatiquement assigné à un sac selon sa catégorie.
+
+![](.gitbook/assets/pvw12845.jpg)
 
 {% file src=".gitbook/assets/arkinventory.zip" %}
 
-## autorepair
+## AutoMaton
+
+Vend tout les objets "gris" de votre inventaire, paramétrable pour un meilleur confort de jeu.
+
+## AutoRepair
 
 {% file src=".gitbook/assets/autorepair.zip" %}
 
-## autovendor
+## AutoVendor
 
 {% file src=".gitbook/assets/autovendor.zip" %}
 
@@ -24,7 +32,15 @@
 
 {% file src=".gitbook/assets/baggins.zip" %}
 
-## bagnon2
+## Bagnon 2
+
+{% hint style="danger" %}
+Déconseillé par l'équipe : Provoque des **problèmes visuels** de disparition d'objets lorsque l'addon est mal configuré. \(_Il suffit de le désactiver pour revoir ses items disparus\)._
+{% endhint %}
+
+Bagnon est un addon bien pratique réunissant tous vos sacs ainsi que ceux de votre banque en un seul. Cette dernière est même consultable où que l'on soit via l'interface de Bagnon.
+
+![](.gitbook/assets/4b7f7f80-a667-11e9-9754-8a91784eb82c.jpg)
 
 {% file src=".gitbook/assets/bagnon2.zip" %}
 
@@ -41,6 +57,10 @@
 {% file src=".gitbook/assets/bagsync.zip" %}
 
 ## bankitems
+
+Vous avez bien envie de vous crafter un item, vous êtes presque sûr que votre reroll a les composants adéquats sans pour autant en être sûr... Inutile de déco/reco, Bank Item vous permettra de voir les sacs à dos et emplacements de banque de tous vos personnages sur n'importe quel serveur, et ce où que vous soyez.
+
+![](.gitbook/assets/00233371.jpg)
 
 {% file src=".gitbook/assets/bankitems.zip" %}
 

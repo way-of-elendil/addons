@@ -12,6 +12,18 @@ Cet addon filtre les debuffs et les buffs dont vous ne vous souciez pas, et les 
 
 {% file src=".gitbook/assets/debufffilter-1.99.zip" caption="Debuff Filter" %}
 
+## Decursive
+
+{% hint style="success" %}
+Conseillé et validé par l'équipe !
+{% endhint %}
+
+Decursive vérifie sur tout votre groupe/raid si un membre est affecté par un débuff \(effet négatif\) que votre classe est capable de soigner \(magie, maladie, malédiction, etc\).
+
+![](.gitbook/assets/decursive.jpg)
+
+{% file src=".gitbook/assets/decursive-2.5.1.zip" caption="decursive" %}
+
 ## Dottracker
 
 {% file src=".gitbook/assets/dottracker.zip" caption="Dottracker" %}

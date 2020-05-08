@@ -47,11 +47,12 @@ Ackis Recipe List est un addon qui analyse vos métiers et fournit des informati
 ## Gatherer
 
 {% hint style="success" %}
-Conseillé et validé par l'équipe !  
-A cumuler avec GatherMate & GatherMate Data pour le combo ultime 
+Conseillé et validé par l'équipe !
 {% endhint %}
 
 Gatherer est un addon particulièrement utile aux herboristes et mineurs ainsi qu'aux chasseurs de trésors.
+
+![](.gitbook/assets/wow-gatherer-addon-8768-3.jpg)
 
 {% file src=".gitbook/assets/gatherer.zip" caption="Gatherer" %}
 

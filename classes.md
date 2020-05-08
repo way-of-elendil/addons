@@ -14,6 +14,14 @@
 
 ## HealBot
 
+{% hint style="success" %}
+Conseillé et validé par l'équipe pour tous les soigneurs incompétents !
+{% endhint %}
+
+En plus d'être l'addon favoris des soigneurs les plus handicapés, healbot peut également être utilisé en qualité d'interface de raid. Moins discrète qu'une Grid, celle-ci affiche de manière claire et précise les informations utiles aux soigneurs tels que les soins en cours sur un membre ou encore les joueurs à guérir en priorité.
+
+![](.gitbook/assets/pvw60689.jpg)
+
 {% file src=".gitbook/assets/healbot.zip" caption="HealBot" %}
 
 ## Healers-Have-To-Die
