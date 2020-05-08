@@ -6,6 +6,10 @@ description: Une aide dans la maitrise des différentes classes de World of Warc
 
 ## Acherus
 
+Acherus est un addon du chevalier de la mort, qui fournit des présentoirs pour les runes, les procs, le pouvoir runique et les maladies. Un grand effort a été fait pour rendre toutes les fonctionnalités personnalisables. Des animations sont fournies pour qu'il soit très facile de voir quand les choses deviennent disponibles et indisponibles.
+
+![](.gitbook/assets/procscollage.jpg)
+
 {% file src=".gitbook/assets/acherus.zip" caption="Acherus" %}
 
 ## AssassinTimer
