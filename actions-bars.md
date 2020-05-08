@@ -1,3 +1,7 @@
+---
+description: Pour vous permettre de manipuler vos barres de sorts à la volée
+---
+
 # Barres d'action
 
 ## actionbarsaver

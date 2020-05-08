@@ -1,3 +1,7 @@
+---
+description: 'Gérez vos buffs, debuffs et dispells en toute simplicité'
+---
+
 # Buffs & Debuffs
 
 ## ClassTimer

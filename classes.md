@@ -1,3 +1,7 @@
+---
+description: Une aide dans la maitrise des différentes classes de World of Warcraft
+---
+
 # Classes
 
 ## Acherus
