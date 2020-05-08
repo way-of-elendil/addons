@@ -2,6 +2,19 @@
 
 ## AtlasLoot
 
+AtlasLoot Classic est une interface qui permet de parcourir les tables de butin des boss à tout moment pendant le jeu.
+
+**Caractéristiques**
+
+* Complète tables de butin pour les donjons et raids de la version Classique
+* Artisanat avec des informations sur les matériaux, les objets créés et les niveaux d'habileté
+* Les factions
+* Collections entières des ensembles d'objets PVP et Tiers 0 -&gt; Tiers 3.
+
+Vous avez également l’ajout de vos objets favoris dans une liste de favoris avec « ALT + Clic gauche ».
+
+![](.gitbook/assets/atlasloot.jpg)
+
 {% file src=".gitbook/assets/atlasloot.zip" caption="Atlas Loot" %}
 
 ## Big Wigs
