@@ -234,6 +234,13 @@
 
 ## xloot
 
+Xloot en dépit de modifier le skin de votre fenêtre de loot, il vous permet d'ajouter des options pour ce dernier.
+
+* Il permet d'afficher la fenêtre de loot directement sous votre souris.
+* Il permet d'afficher sur les canaux dire, chuchotement, crier, guilde, groupe, general etc... vos/votre loot\(s\).
+
+ Pour afficher la petite fenêtre d'options, clique-droit sur "montrer tout..." en dessous des loots.
+
 {% file src=".gitbook/assets/xloot.zip" %}
 
 ## xlootmonitor

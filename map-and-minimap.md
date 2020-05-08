@@ -8,10 +8,6 @@
 
 {% file src=".gitbook/assets/atlas.zip" caption="Atlas" %}
 
-## Carbonite
-
-{% file src=".gitbook/assets/carbonite.zip" caption="Carbonite" %}
-
 ## Cartographer
 
 {% file src=".gitbook/assets/cartographer.zip" caption="Cartographer" %}
@@ -57,6 +53,8 @@
 {% file src=".gitbook/assets/routes.zip" caption="Routes" %}
 
 ## SexyMap
+
+Sexymap est un addon qui modifie la minimap en haut à droite de votre écran de jeu, en effet celui-ci crée une animation graphique autour de celle-ci et supprime le menu des addons qui viennent se greffer autour de la minipap en temps normal, cependant lorsque vous passez votre souris dessus ils re-apparaissent.
 
 {% file src=".gitbook/assets/sexymap.zip" caption="SexyMap" %}
 

@@ -8,6 +8,10 @@ description: >-
 
 ## AtlasLoot
 
+{% hint style="success" %}
+Conseillé et validé par l'équipe !
+{% endhint %}
+
 AtlasLoot Classic est une interface qui permet de parcourir les tables de butin des boss à tout moment pendant le jeu.
 
 **Caractéristiques**
@@ -33,6 +37,10 @@ BigWigs est un module complémentaire de rencontre. Il se compose de nombreux sc
 
 ## DBM core-and-wotlk-mods
 
+{% hint style="success" %}
+Conseillé et validé par l'équipe !
+{% endhint %}
+
 **Deadly Boss Mods \(DBM\) :** Une interface dédiée aux raids, donjons, événements spéciaux qui vous aides dans les stratégies et phases de chaque boss. L'ultime aide à la rencontre pour vous donner des informations de combat faciles à traiter en un coup d'œil. DBM vise à se concentrer sur ce qui vous arrive et sur ce que VOUS devez faire pour y remédier.
 
 {% hint style="info" %}
@@ -45,6 +53,10 @@ Voir la version [BC+Classic](https://addons.way-of-elendil.fr/aide-aux-rencontre
 {% file src=".gitbook/assets/dbm-core-and-wotlk-mods.zip" caption="DBM core-and-wotlk-mods" %}
 
 ## DBM bc-and-vanilla-mods
+
+{% hint style="success" %}
+Conseillé et validé par l'équipe !
+{% endhint %}
 
 L'ultime aide à la rencontre \(pour le commerce de détail\) pour vous donner des informations de combat faciles à traiter en un coup d'œil. DBM vise à se concentrer sur ce qui vous arrive et sur ce que VOUS devez faire pour y remédier.
 

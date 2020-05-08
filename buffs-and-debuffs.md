@@ -4,6 +4,14 @@
 
 {% file src=".gitbook/assets/classtimer.zip" caption="ClassTimer" %}
 
+## DebuffFilter
+
+Cet addon filtre les debuffs et les buffs dont vous ne vous souciez pas, et les place n'importe où sur l'écran. Si vous êtes une classe de mêlée, vous pouvez tout filtrer sauf CoR, FF et Sunder. Si vous êtes un lanceur, vous pouvez simplement afficher les déboutures comme CoE et Winter's Chill. Les guérisseurs peuvent tout filtrer sauf leurs buffs et HoTs, etc.
+
+![](.gitbook/assets/debufffilter.jpg)
+
+{% file src=".gitbook/assets/debufffilter-1.99.zip" caption="Debuff Filter" %}
+
 ## Dottracker
 
 {% file src=".gitbook/assets/dottracker.zip" caption="Dottracker" %}
@@ -32,11 +40,24 @@
 
 {% file src=".gitbook/assets/pallypower.zip" caption="PallyPower" %}
 
-## PowerAuras
+## Power Auras
+
+Cet AddOn power auras a été créé afin d'avoir une meilleure visibilité lorsque l'on acquière des buffs ou des débuffs. Très utile principalement pour les buffs ou débuffs court, il permet d'avoir au centre de l'écran, ou autour de son personnages, des effets visuels extrêmement paramétrables, plutôt que tout le temps avoir à regarder si on a l'icône du buff ou débuff sur les bords de l'écran.
+
+![](.gitbook/assets/20692_orig.jpg)
 
 {% file src=".gitbook/assets/powerauras.zip" caption="PowerAuras" %}
 
 ## SatrinaBuffFrame
+
+Caractéristiques vedettes de Satrina Buff Frame :
+
+* Jaunes et les affaiblissements dans tout nombre de cadres mobiles
+* Durée des minuteries avec plusieurs options de format \(plus aucune option minuterie\)
+* Buff bars peuvent être activés dans n'importe quel cadre
+* Enchantements d'armes temporaires sont affichées dans le cadre Buff principal
+* Avertissements expiration Buff, settable par image avec des choix multiples pour savoir quand déclencher des avertissements, et quelle est la durée d'avertissements Buff apparaîtra pour
+* Options pour un son d'accompagnement pour l'alerte d'expiration
 
 {% file src=".gitbook/assets/satrinabuffframe.zip" caption="SatrinaBuffFrame" %}
 

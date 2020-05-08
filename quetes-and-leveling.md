@@ -1,5 +1,13 @@
 # Quêtes & Leveling
 
+## Carbonite
+
+CarboniteQuest est le principal concurrent de QuestHelper. Son avantage? Une interface encore plus claire et précise, un ordre de quêtes plus logique, ainsi que des fonctionnalités supplémentaires. Il s'adresse également aux joueurs PvP, il rends compte de la position des alliés, et intègre des macros prédéfinies telles que "Defendre ici" , "Attaquer là etc.
+
+![](.gitbook/assets/carbonite3.gif)
+
+{% file src=".gitbook/assets/carbonite.zip" caption="Carbonite" %}
+
 ## DugisGuides
 
 {% file src=".gitbook/assets/dugisguides.zip" caption="DugisGuides" %}
@@ -28,7 +36,15 @@
 
 {% file src=".gitbook/assets/objectiveannouncer.zip" caption="ObjectiveAnnouncer" %}
 
-## QuestHelper
+## Quest Helper
+
+{% hint style="success" %}
+Conseillé et validé par l'équipe !
+{% endhint %}
+
+QuestHelper vous indiquera où et comment accomplir chaque quête au travers d'informations simples et lisibles.
+
+![](.gitbook/assets/afbudql.png)
 
 {% file src=".gitbook/assets/questhelper.zip" caption="QuestHelper" %}
 

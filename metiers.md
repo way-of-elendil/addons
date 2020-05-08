@@ -1,6 +1,14 @@
 # Métiers
 
-## AckisRecipeList
+## Ackis Recipe List
+
+{% hint style="success" %}
+Conseillé et validé par l'équipe !
+{% endhint %}
+
+Ackis Recipe List est un addon qui analyse vos métiers et fournit des informations sur la façon d'obtenir les recettes manquantes.
+
+![](.gitbook/assets/cngvsy8.png)
 
 {% file src=".gitbook/assets/ackisrecipelist.zip" caption="AckisRecipeList" %}
 
@@ -38,11 +46,26 @@
 
 ## Gatherer
 
+{% hint style="success" %}
+Conseillé et validé par l'équipe !  
+A cumuler avec GatherMate & GatherMate Data pour le combo ultime 
+{% endhint %}
+
+Gatherer est un addon particulièrement utile aux herboristes et mineurs ainsi qu'aux chasseurs de trésors.
+
 {% file src=".gitbook/assets/gatherer.zip" caption="Gatherer" %}
 
 ## GatherMate
 
+Enregistrez l'emplacement des gisements, herbes et trésors que vous trouverez au cours de l'aventure grâce à GatherMate. Digne descendant de feu Gatherer, cet add-on recensera automatiquement les "spots" de farm sur lesquels vous cliquerez. Ainsi, vous saurez où et quoi chercher à tout moment. N'oubliez pas de télécharger GatherMate\_Data pour une efficacité optimale.
+
 {% file src=".gitbook/assets/gathermate.zip" caption="GatherMate" %}
+
+## GatherMate Data
+
+Si vous profitez déjà des vertus de GatherMate, jetez-vous sans attendre sur GatherMate\_Data. Il s'agit d'un plug-in offrant une base de donnée très complète à GatherMate. Dorénavant, votre carte affiche tous les "spots" de farm \(gisements, herbes et trésors\) où qu'ils soient dans le monde. A vous l'orgie de minerais et de plantes
+
+{% file src=".gitbook/assets/gathermate\_data-v2.25.zip" caption="GatherMate Data" %}
 
 ## GemCensus
 
