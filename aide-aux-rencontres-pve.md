@@ -1,3 +1,9 @@
+---
+description: >-
+  Addons dédiés à faciliter le PvE et plus particulièrement les raids et les
+  donjons
+---
+
 # Aide aux boss
 
 ## AtlasLoot
