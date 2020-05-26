@@ -14,7 +14,7 @@
 
 ## GearScore
 
-Gearscore est une sorte de score d'équipement, plus votre équipement est de qualité, et de haut level, plus le gearscore est élevé, ainsi ce score est parfois employé par des guildes lors du recrutement de nouveaux joueurs, pour juger la force d'équipement d'un membre inconnu.
+gearscore est une sorte de score d'équipement, plus votre équipement est de qualité, et de haut level, plus le gearscore est élevé, ainsi ce score est parfois employé par des guildes lors du recrutement de nouveaux joueurs, pour juger la force d'équipement d'un membre inconnu.
 
 {% file src=".gitbook/assets/gearscore.zip" caption="GearScore" %}
 
