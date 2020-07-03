@@ -42,6 +42,33 @@ Cet addon permet de modifier l'aspect des icones des barres d'action et des buff
 
 {% file src=".gitbook/assets/fubar.zip" caption="FuBar" %}
 
+## Grid
+
+Outil d'interface de raid pouvant être paramétré pour afficher :
+
+* Les niveaux de vie / de mana / d'énergie / de rage / la mort \(et oui aussi\)
+* Les couleurs par classe
+* Les reprises d'aggro
+* Les buffs et débuffs
+* La proximité des autres joueurs 
+
+Le joueur pourra personnaliser son interface de manière à attribuer chacun des angles des cases à un sort. Exemple pour un prêtre : haut gauche = bulle, haut droite = affaiblissement de l'âme, etc. Il permet aussi de cibler un personnage en cliquant sur sa case.
+
+![](.gitbook/assets/1fhgq_screenshot2.jpg)
+
+{% file src=".gitbook/assets/grid.zip" caption="Grid" %}
+
+## Grid2
+
+Idem que Grid mais avec quelques améliorations :
+
+* Les carrés d'indication des buffs/débuffs auront des images miniatures, et afficheront aussi le nombre de stack
+* Les débuffs pouvant être dispel au centre de la case ne s'écrasent plus et sont tous visibles côte à côte 
+
+![](.gitbook/assets/enhanced-raid-frame-indicators-scr-4.jpg)
+
+{% file src=".gitbook/assets/grid2.zip" caption="Grid2" %}
+
 ## IceHUD
 
 IceHUD est un add-on de combat, en effet celui-ci crée deux sphères verticale autour de votre personnage. Celle-ci vous indique vos niveaux de vies, mana, rage, puissance runique ou énergie selon votre classe. Dés que vous ciblez un autre personnage, deux sphères se rajoutent vous indiquant les mêmes informations que pour vous même. L'addon calcul aussi votre latence durant un cast, ainsi vous pouvez anticiper le lag entre vous et le serveur, ce qui vous fera gagner de précieuse micro-seconde. D'autres fonctionnalités sont disponibles, le seul problème reste dans l'interface de configuration qui est entièrement en anglais.
@@ -101,6 +128,14 @@ Titan Panel est une barre qui se place au dessus du jeu \(voir screenshot ci-con
 ## Volumizer
 
 {% file src=".gitbook/assets/volumizer.zip" caption="Volumizer" %}
+
+## VuhDo
+
+Addon d'interface raid semblable à Grid. Il permet en plus de lancer certains sort en cliquant directement sur la case. 
+
+![](.gitbook/assets/image%20%282%29.png)
+
+{% file src=".gitbook/assets/vuhdo.zip" caption="VuhDo" %}
 
 ## XPerl
 
