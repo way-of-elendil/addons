@@ -104,7 +104,7 @@ Cet AddOn power auras a été créé afin d'avoir une meilleure visibilité lors
 
 ![](.gitbook/assets/20692_orig.jpg)
 
-{% file src=".gitbook/assets/powerauras.zip" caption="PowerAuras" %}
+{% file src=".gitbook/assets/powerauras-3.0.0s\_33500.zip" %}
 
 ## SatrinaBuffFrame
 
