@@ -143,7 +143,7 @@ WeakAuras est un cadre puissant et flexible qui permet l'affichage de graphiques
 
 ![](.gitbook/assets/weakauras_default_config_screen.png)
 
-{% file src=".gitbook/assets/weakauras2.zip" caption="WeakAuras2" %}
+{% file src=".gitbook/assets/weakaurasmodelpaths\_1.zip" caption="WeekAuras" %}
 
 ## Whammy
 
