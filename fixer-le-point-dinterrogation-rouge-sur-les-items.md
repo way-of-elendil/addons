@@ -10,7 +10,7 @@ description: Parce que c'est chiant quand on sait pas ce que c'est...
 Conseillé et validé par notre équipe
 {% endhint %}
 
-Ce plugin permet tout simplement d'afficher les images des objets custom dans votre inventaire crées lors des événements spéciaux ou pour de la transmogrification.
+Ce plugin permet tout simplement d'afficher les images des objets custom dans votre inventaire crées par exemple lors des événements spéciaux ou encore pour la transmogrification.
 
 ![](.gitbook/assets/screenshot_79.jpg)
 
