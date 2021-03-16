@@ -2,7 +2,7 @@
 description: Parce que c'est chiant quand on sait pas ce que c'est...
 ---
 
-# Fixer le point d'interrogation rouge sur les items
+# Fixer le point d'interrogation rouge sur les items dans vos sacs
 
 ## Fix Item Icon
 
