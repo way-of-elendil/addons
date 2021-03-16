@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Les Addons compatibles 3.3.5](README.md)
+* [Fixer le point d'interrogation rouge sur les items](fixer-le-point-dinterrogation-rouge-sur-les-items.md)
 * [Aide aux boss](aide-aux-boss.md)
 * [Barres d'action](actions-bars.md)
 * [Buffs & Debuffs](buffs-and-debuffs.md)
