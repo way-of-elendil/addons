@@ -1,5 +1,5 @@
 ---
-description: Parce que c'est chiant quand on sait pas ce que c'est...
+description: Parce que c'est chiant quand on voit pas ce que c'est...
 ---
 
 # Fixer le point d'interrogation rouge sur les items dans vos sacs
