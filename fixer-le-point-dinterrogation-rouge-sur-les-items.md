@@ -4,7 +4,7 @@ description: Parce que c'est chiant quand on voit pas ce que c'est...
 
 # Fixer le point d'interrogation rouge sur les items dans vos sacs
 
-## Fix Item Icon
+ix Item Icon
 
 {% hint style="success" %}
 Conseillé et validé par notre équipe
@@ -14,5 +14,9 @@ Ce plugin permet tout simplement d'afficher les images des objets custom dans vo
 
 ![](.gitbook/assets/screenshot_79.jpg)
 
-{% file src=".gitbook/assets/fixitemicon.zip" caption="Télécharger Fix Item Icon" %}
+{% file src=".gitbook/assets/fixitemicon \(1\).zip" caption="Télécharger Fix Item Icon" %}
+
+{% hint style="danger" %}
+Cet addon n'est pas compatible avec Elvui \(il n'aura aucun effet\).
+{% endhint %}
 
