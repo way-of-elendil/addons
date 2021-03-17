@@ -17,6 +17,6 @@ Ce plugin permet tout simplement d'afficher les images des objets custom dans vo
 {% file src=".gitbook/assets/fixitemicon \(1\).zip" caption="Télécharger Fix Item Icon" %}
 
 {% hint style="danger" %}
-Cet addon n'est pas compatible avec Elvui \(il n'aura aucun effet\).
+Cet addon n'est pas compatible avec le module de gestion des sacs d'Elvui \(il n'aura aucun effet\). Toutefois vous pouvez garder Elvui et désactiver le module de gestion des sacs.
 {% endhint %}
 
