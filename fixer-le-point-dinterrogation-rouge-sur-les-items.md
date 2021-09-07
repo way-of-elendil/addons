@@ -4,7 +4,7 @@ description: Parce que c'est chiant quand on voit pas ce que c'est...
 
 # Fixer le point d'interrogation rouge sur les items dans vos sacs
 
-ix Item Icon
+## Fix Item Icon
 
 {% hint style="success" %}
 Conseillé et validé par notre équipe
