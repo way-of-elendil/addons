@@ -12,11 +12,12 @@ Conseillé et validé par notre équipe
 
 Ce plugin permet tout simplement d'afficher les images des objets custom dans votre inventaire crées par exemple lors des événements spéciaux ou encore pour la transmogrification.
 
-![](.gitbook/assets/screenshot_79.jpg)
+![](.gitbook/assets/screenshot\_79.jpg)
 
-{% file src=".gitbook/assets/fixitemicon \(1\).zip" caption="Télécharger Fix Item Icon" %}
+{% file src=".gitbook/assets/FixItemIcon (1).zip" %}
+Télécharger Fix Item Icon
+{% endfile %}
 
 {% hint style="danger" %}
-Cet addon n'est pas compatible avec le module de gestion des sacs d'Elvui \(il n'aura aucun effet\). Toutefois vous pouvez garder Elvui et désactiver le module de gestion des sacs.
+Cet addon n'est pas compatible avec le module de gestion des sacs d'Elvui (il n'aura aucun effet). Toutefois vous pouvez garder Elvui et désactiver le module de gestion des sacs.
 {% endhint %}
-

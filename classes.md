@@ -8,17 +8,23 @@ description: Une aide dans la maitrise des différentes classes de World of Warc
 
 Acherus est un addon du chevalier de la mort, qui fournit des présentoirs pour les runes, les procs, le pouvoir runique et les maladies. Un grand effort a été fait pour rendre toutes les fonctionnalités personnalisables. Des animations sont fournies pour qu'il soit très facile de voir quand les choses deviennent disponibles et indisponibles.
 
-![](.gitbook/assets/procscollage.jpg)
+![](.gitbook/assets/ProcsCollage.jpg)
 
-{% file src=".gitbook/assets/acherus.zip" caption="Acherus" %}
+{% file src=".gitbook/assets/Acherus.zip" %}
+Acherus
+{% endfile %}
 
 ## AssassinTimer
 
-{% file src=".gitbook/assets/assassintimer.zip" caption="AssassinTimer" %}
+{% file src=".gitbook/assets/AssassinTimer.zip" %}
+AssassinTimer
+{% endfile %}
 
 ## DruidStats
 
-{% file src=".gitbook/assets/druidstats.zip" caption="DruidStats" %}
+{% file src=".gitbook/assets/DruidStats.zip" %}
+DruidStats
+{% endfile %}
 
 ## HealBot
 
@@ -30,45 +36,66 @@ En plus d'être l'addon favoris des soigneurs les plus handicapés, healbot peut
 
 ![](.gitbook/assets/pvw60689.jpg)
 
-{% file src=".gitbook/assets/healbot.zip" caption="HealBot" %}
+{% file src=".gitbook/assets/HealBot.zip" %}
+HealBot
+{% endfile %}
 
 ## Healers-Have-To-Die
 
-{% file src=".gitbook/assets/healers-have-to-die.zip" caption="Healers-Have-To-Die" %}
+{% file src=".gitbook/assets/Healers-Have-To-Die.zip" %}
+Healers-Have-To-Die
+{% endfile %}
 
 ## LearningAid
 
-{% file src=".gitbook/assets/learningaid.zip" caption="LearningAid" %}
+{% file src=".gitbook/assets/LearningAid.zip" %}
+LearningAid
+{% endfile %}
 
 ## MageFever
 
-{% file src=".gitbook/assets/magefever.zip" caption="MageFever" %}
+{% file src=".gitbook/assets/MageFever.zip" %}
+MageFever
+{% endfile %}
 
 ## MageNuggets
 
-{% file src=".gitbook/assets/magenuggets.zip" caption="MageNuggets" %}
+{% file src=".gitbook/assets/MageNuggets.zip" %}
+MageNuggets
+{% endfile %}
 
 ## Necrosis
 
-{% file src=".gitbook/assets/necrosis.zip" caption="Necrosis" %}
+{% file src=".gitbook/assets/Necrosis.zip" %}
+Necrosis
+{% endfile %}
 
 ## PortalBox
 
-{% file src=".gitbook/assets/portalbox.zip" caption="PortalBox" %}
+{% file src=".gitbook/assets/PortalBox.zip" %}
+PortalBox
+{% endfile %}
 
 ## ShockAndAwe
 
-{% file src=".gitbook/assets/shockandawe.zip" caption="ShockAndAwe" %}
+{% file src=".gitbook/assets/ShockAndAwe.zip" %}
+ShockAndAwe
+{% endfile %}
 
 ## Talented
 
-{% file src=".gitbook/assets/talented.zip" caption="Talented" %}
+{% file src=".gitbook/assets/Talented.zip" %}
+Talented
+{% endfile %}
 
 ## TrainerSkills
 
-{% file src=".gitbook/assets/trainerskills.zip" caption="TrainerSkills" %}
+{% file src=".gitbook/assets/TrainerSkills.zip" %}
+TrainerSkills
+{% endfile %}
 
 ## Warrior Vigilance Tracker
 
-{% file src=".gitbook/assets/warriorvigilancetracker.zip" caption="WarriorVigilanceTracker" %}
-
+{% file src=".gitbook/assets/WarriorVigilanceTracker.zip" %}
+WarriorVigilanceTracker
+{% endfile %}

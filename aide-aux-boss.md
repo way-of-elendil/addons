@@ -19,13 +19,15 @@ AtlasLoot Classic est une interface qui permet de parcourir les tables de butin 
 * Complète tables de butin pour les donjons et raids de la version Classique
 * Artisanat avec des informations sur les matériaux, les objets créés et les niveaux d'habileté
 * Les factions
-* Collections entières des ensembles d'objets PVP et Tiers 0 -&gt; Tiers 3.
+* Collections entières des ensembles d'objets PVP et Tiers 0 -> Tiers 3.
 
 Vous avez également l’ajout de vos objets favoris dans une liste de favoris avec « ALT + Clic gauche ».
 
 ![](.gitbook/assets/atlasloot.jpg)
 
-{% file src=".gitbook/assets/atlasloot.zip" caption="Atlas Loot" %}
+{% file src=".gitbook/assets/AtlasLoot (1).zip" %}
+Atlas Loot
+{% endfile %}
 
 ## Big Wigs
 
@@ -33,7 +35,9 @@ BigWigs est un module complémentaire de rencontre. Il se compose de nombreux sc
 
 ![](.gitbook/assets/bars.png)
 
-{% file src=".gitbook/assets/bigwigs.zip" caption="Big Wigs" %}
+{% file src=".gitbook/assets/BigWigs.zip" %}
+Big Wigs
+{% endfile %}
 
 ## DBM core-and-wotlk-mods
 
@@ -41,16 +45,18 @@ BigWigs est un module complémentaire de rencontre. Il se compose de nombreux sc
 Conseillé et validé par l'équipe !
 {% endhint %}
 
-**Deadly Boss Mods \(DBM\) :** Une interface dédiée aux raids, donjons, événements spéciaux qui vous aides dans les stratégies et phases de chaque boss. L'ultime aide à la rencontre pour vous donner des informations de combat faciles à traiter en un coup d'œil. DBM vise à se concentrer sur ce qui vous arrive et sur ce que VOUS devez faire pour y remédier.
+**Deadly Boss Mods (DBM) :** Une interface dédiée aux raids, donjons, événements spéciaux qui vous aides dans les stratégies et phases de chaque boss. L'ultime aide à la rencontre pour vous donner des informations de combat faciles à traiter en un coup d'œil. DBM vise à se concentrer sur ce qui vous arrive et sur ce que VOUS devez faire pour y remédier.
 
 {% hint style="info" %}
-Cette version de DBM ne contient que l'assistance pour WOTLK  
+Cette version de DBM ne contient que l'assistance pour WOTLK\
 Voir la version [BC+Classic](https://addons.way-of-elendil.fr/aide-aux-rencontres-pve#dbm-bc-and-vanilla-mods)
 {% endhint %}
 
 ![](.gitbook/assets/dbm2.jpg)
 
-{% file src=".gitbook/assets/dbm-core-and-wotlk-mods.zip" caption="DBM core-and-wotlk-mods" %}
+{% file src=".gitbook/assets/DBM-Core-and-WotLK-Mods.zip" %}
+DBM core-and-wotlk-mods
+{% endfile %}
 
 ## DBM bc-and-vanilla-mods
 
@@ -58,16 +64,18 @@ Voir la version [BC+Classic](https://addons.way-of-elendil.fr/aide-aux-rencontre
 Conseillé et validé par l'équipe !
 {% endhint %}
 
-L'ultime aide à la rencontre \(pour le commerce de détail\) pour vous donner des informations de combat faciles à traiter en un coup d'œil. DBM vise à se concentrer sur ce qui vous arrive et sur ce que VOUS devez faire pour y remédier.
+L'ultime aide à la rencontre (pour le commerce de détail) pour vous donner des informations de combat faciles à traiter en un coup d'œil. DBM vise à se concentrer sur ce qui vous arrive et sur ce que VOUS devez faire pour y remédier.
 
 {% hint style="info" %}
-Cette version de DBM ne contient que l'assistance pour BC + Classic  
+Cette version de DBM ne contient que l'assistance pour BC + Classic\
 Voir[ la version TLK ](https://addons.way-of-elendil.fr/aide-aux-rencontres-pve#dbm-core-and-wotlk-mods)
 {% endhint %}
 
 ![](.gitbook/assets/deadly-boss-mods-wow-addon.jpg)
 
-{% file src=".gitbook/assets/dbm-bc-and-vanilla-mods.zip" caption="DBM bc-and-vanilla-mods" %}
+{% file src=".gitbook/assets/DBM-BC-and-Vanilla-Mods.zip" %}
+DBM bc-and-vanilla-mods
+{% endfile %}
 
 ## defileguard
 
@@ -75,15 +83,19 @@ Cet addon fournit plusieurs messages d'avertissement spéciaux pour le défilé 
 
 ![](.gitbook/assets/636141444566781366.gif)
 
-{% file src=".gitbook/assets/defileguard.zip" caption="Defile Guard" %}
+{% file src=".gitbook/assets/DefileGuard.zip" %}
+Defile Guard
+{% endfile %}
 
 ## fatality
 
-Fatality est un simple addon de rapport de décès qui annonce les informations sur le\(s\) dernier\(s\) coup\(s\) qu'une personne a pris avant de mourir.
+Fatality est un simple addon de rapport de décès qui annonce les informations sur le(s) dernier(s) coup(s) qu'une personne a pris avant de mourir.
 
 ![](.gitbook/assets/636142141751756084.png)
 
-{% file src=".gitbook/assets/fatality.zip" caption="Fatality" %}
+{% file src=".gitbook/assets/Fatality.zip" %}
+Fatality
+{% endfile %}
 
 ## Group O Matic
 
@@ -93,21 +105,26 @@ Il est également doté d'un bouton Auto, qui permet de pousser tout le monde ve
 
 ![](.gitbook/assets/pvw18957.jpg)
 
-{% file src=".gitbook/assets/groupomatic.zip" caption="Groupomatic" %}
+{% file src=".gitbook/assets/GroupOMatic.zip" %}
+Groupomatic
+{% endfile %}
 
 ## Omen
 
-Omen est un compteur de menaces. Les ennemis de WoW décident qui attaquer en décidant qui est le plus menaçant en fonction des capacités que vous utilisez. Omen fournit des valeurs précises du niveau de menace relatif de votre groupe sur les ennemis individuels, afin que vous puissiez voir quand vous risquez d'attirer les ennuis \(ou, si vous êtes le prochain sur la liste d'aggro si votre tank meurt\). Cette information n'est généralement critique que dans les raids, où seuls les tanks peuvent survivre aux agressions, mais elle est utile dans beaucoup d'autres situations multi-joueurs
+Omen est un compteur de menaces. Les ennemis de WoW décident qui attaquer en décidant qui est le plus menaçant en fonction des capacités que vous utilisez. Omen fournit des valeurs précises du niveau de menace relatif de votre groupe sur les ennemis individuels, afin que vous puissiez voir quand vous risquez d'attirer les ennuis (ou, si vous êtes le prochain sur la liste d'aggro si votre tank meurt). Cette information n'est généralement critique que dans les raids, où seuls les tanks peuvent survivre aux agressions, mais elle est utile dans beaucoup d'autres situations multi-joueurs
 
-![](.gitbook/assets/screenshot_2.jpg)
+![](.gitbook/assets/Screenshot\_2.jpg)
 
-{% file src=".gitbook/assets/omen.zip" caption="Omen" %}
+{% file src=".gitbook/assets/Omen.zip" %}
+Omen
+{% endfile %}
 
 ## SavedInstances
 
-Un addon qui garde une trace des verrouillages d'instance/raid enregistrés contre vos personnages, ainsi que des devises et des recharges associées. 
+Un addon qui garde une trace des verrouillages d'instance/raid enregistrés contre vos personnages, ainsi que des devises et des recharges associées.&#x20;
 
 ![](.gitbook/assets/26862274-df60d5a8-4b17-11e7-940e-42441f25831a.jpg)
 
-{% file src=".gitbook/assets/savedinstances.zip" caption="Saved Instances" %}
-
+{% file src=".gitbook/assets/SavedInstances.zip" %}
+Saved Instances
+{% endfile %}

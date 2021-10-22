@@ -6,7 +6,9 @@ description: Facilitez vous la quête de hauts-faits
 
 ## AutoGratzer
 
-{% file src=".gitbook/assets/autogratzer.zip" caption="AutoGratzer" %}
+{% file src=".gitbook/assets/AutoGratzer.zip" %}
+AutoGratzer
+{% endfile %}
 
 ## NPCScan
 
@@ -18,17 +20,18 @@ NPCScan est un addon qui vous averti lorsqu'un monstre rare est proche de vous. 
 
 ![](.gitbook/assets/unnamed.jpg)
 
-{% file src=".gitbook/assets/npcscan.zip" caption="NPCScan" %}
+{% file src=".gitbook/assets/NPCScan.zip" %}
+NPCScan
+{% endfile %}
 
 ## Overachiever
 
-{% file src=".gitbook/assets/overachiever.zip" %}
+{% file src=".gitbook/assets/Overachiever.zip" %}
 
 ## Silver Dragon
 
-{% file src=".gitbook/assets/silverdragon.zip" %}
+{% file src=".gitbook/assets/SilverDragon.zip" %}
 
 ## Raid Achievement
 
-{% file src=".gitbook/assets/raidachievement.zip" %}
-
+{% file src=".gitbook/assets/RaidAchievement.zip" %}

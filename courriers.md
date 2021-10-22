@@ -16,7 +16,9 @@ La fonction "Tout ouvrir" peut encore comporter quelques bizarreries avec des je
 
 ![](.gitbook/assets/pvw20337.jpg)
 
-{% file src=".gitbook/assets/betterinbox.zip" caption="BetterInbox" %}
+{% file src=".gitbook/assets/BetterInbox.zip" %}
+BetterInbox
+{% endfile %}
 
 ## Postal
 
@@ -24,13 +26,14 @@ Une extension de l'interface de courrier électronique de Blizzard qui
 
 Ouvre automatiquement le courrier, très rapidement Envoyer plusieurs articles à la fois, très rapidement Autocomplète les noms incluant les alts dans une liste déroulante
 
-* _Cliquez à droite_ sur les objets de la boîte de réception pour piller l'or, piller l'objet et détruire la lettre, dans cet ordre, le cas échéant. 
-* _Clic droit_ ou _Gauche_ pour ajouter des objets d'inventaire aux pièces jointes. 
+* _Cliquez à droite_ sur les objets de la boîte de réception pour piller l'or, piller l'objet et détruire la lettre, dans cet ordre, le cas échéant.&#x20;
+* _Clic droit_ ou _Gauche_ pour ajouter des objets d'inventaire aux pièces jointes.&#x20;
 * Cliquez sur le bouton droit pour ajouter des objets d'inventaire dans le cadre des échanges.
 
 Le nom postal a été repris de l'homonyme du commerce car il s'agissait à l'origine d'une modification de GMail qui était le prédécesseur de cet addOn. La plus grande partie du code est cependant consacrée à l'onglet d'envoi et serait plus précisément décrite comme un backport partiel de l'interface blizzard du commerce de détail.
 
 ![](.gitbook/assets/postal.jpg)
 
-{% file src=".gitbook/assets/postal.zip" caption="Postal" %}
-
+{% file src=".gitbook/assets/Postal.zip" %}
+Postal
+{% endfile %}

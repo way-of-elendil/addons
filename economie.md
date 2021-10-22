@@ -2,85 +2,84 @@
 
 ## Accountant Classic
 
-{% file src=".gitbook/assets/accountant\_classic.zip" %}
+{% file src=".gitbook/assets/Accountant_Classic.zip" %}
 
 ## accountant
 
-{% file src=".gitbook/assets/accountant.zip" %}
+{% file src=".gitbook/assets/Accountant.zip" %}
 
 ## analyst
 
-{% file src=".gitbook/assets/analyst.zip" %}
+{% file src=".gitbook/assets/Analyst.zip" %}
 
 ## auc-searcher-weightswatcher
 
-{% file src=".gitbook/assets/auc-searcher-weightswatcher.zip" %}
+{% file src=".gitbook/assets/Auc-Searcher-WeightsWatcher.zip" %}
 
 ## auctionator
 
-{% file src=".gitbook/assets/auctionator.zip" %}
+{% file src=".gitbook/assets/Auctionator.zip" %}
 
 ## auctioneersuite
 
-{% file src=".gitbook/assets/auctioneersuite.zip" %}
+{% file src=".gitbook/assets/AuctioneerSuite.zip" %}
 
 ## auctionlite
 
-{% file src=".gitbook/assets/auctionlite.zip" %}
+{% file src=".gitbook/assets/AuctionLite.zip" %}
 
 ## auctionmaster
 
-{% file src=".gitbook/assets/auctionmaster.zip" %}
+{% file src=".gitbook/assets/AuctionMaster.zip" %}
 
 ## auctionprofitmaster
 
-{% file src=".gitbook/assets/auctionprofitmaster.zip" %}
+{% file src=".gitbook/assets/AuctionProfitMaster.zip" %}
 
 ## auctionsnatch
 
-{% file src=".gitbook/assets/auctionsnatch.zip" %}
+{% file src=".gitbook/assets/Auctionsnatch.zip" %}
 
 ## auditor2
 
-{% file src=".gitbook/assets/auditor2.zip" %}
+{% file src=".gitbook/assets/Auditor2.zip" %}
 
 ## baudauction
 
-{% file src=".gitbook/assets/baudauction.zip" %}
+{% file src=".gitbook/assets/BaudAuction.zip" %}
 
 ## currency
 
-{% file src=".gitbook/assets/currency.zip" %}
+{% file src=".gitbook/assets/Currency.zip" %}
 
 ## guilddonationhelper
 
-{% file src=".gitbook/assets/guilddonationhelper.zip" %}
+{% file src=".gitbook/assets/GuildDonationHelper.zip" %}
 
 ## lilsparkysworkshop
 
-{% file src=".gitbook/assets/lilsparkysworkshop.zip" %}
+{% file src=".gitbook/assets/LilSparkysWorkshop.zip" %}
 
 ## marcopolo
 
-{% file src=".gitbook/assets/marcopolo.zip" %}
+{% file src=".gitbook/assets/MarcoPolo.zip" %}
 
 ## marketwatcher
 
-{% file src=".gitbook/assets/marketwatcher.zip" %}
+{% file src=".gitbook/assets/MarketWatcher.zip" %}
 
 ## quickauctions
 
-{% file src=".gitbook/assets/quickauctions.zip" %}
+{% file src=".gitbook/assets/QuickAuctions.zip" %}
 
 ## slyprofits
 
-{% file src=".gitbook/assets/slyprofits.zip" %}
+{% file src=".gitbook/assets/SlyProfits.zip" %}
 
 ## tradeskillmaster
 
-{% file src=".gitbook/assets/tradeskillmaster.zip" %}
+{% file src=".gitbook/assets/TradeSkillMaster.zip" %}
 
 ## xmerchant
 
-{% file src=".gitbook/assets/xmerchant.zip" %}
-
+{% file src=".gitbook/assets/xMerchant.zip" %}

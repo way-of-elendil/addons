@@ -6,11 +6,11 @@ description: Réinventons le sac à dos façon Decathlon
 
 ## adibags
 
-{% file src=".gitbook/assets/adibags.zip" %}
+{% file src=".gitbook/assets/AdiBags.zip" %}
 
 ## altoholic
 
-{% file src=".gitbook/assets/altoholic.zip" %}
+{% file src=".gitbook/assets/Altoholic.zip" %}
 
 ## ArkInventory
 
@@ -18,7 +18,7 @@ Léger et facile à configurer, cet addon vous permet de créer des catégories 
 
 ![](.gitbook/assets/pvw12845.jpg)
 
-{% file src=".gitbook/assets/arkinventory.zip" %}
+{% file src=".gitbook/assets/ArkInventory.zip" %}
 
 ## AutoMaton
 
@@ -26,39 +26,39 @@ Vend tout les objets "gris" de votre inventaire, paramétrable pour un meilleur 
 
 ## AutoRepair
 
-{% file src=".gitbook/assets/autorepair.zip" %}
+{% file src=".gitbook/assets/AutoRepair.zip" %}
 
 ## AutoVendor
 
-{% file src=".gitbook/assets/autovendor.zip" %}
+{% file src=".gitbook/assets/AutoVendor.zip" %}
 
 ## baggins
 
-{% file src=".gitbook/assets/baggins.zip" %}
+{% file src=".gitbook/assets/Baggins.zip" %}
 
 ## Bagnon
 
 {% hint style="danger" %}
-Déconseillé par l'équipe : Provoque des **problèmes visuels** de disparition d'objets lorsque l'addon est mal configuré. \(_Il suffit de le désactiver pour revoir ses items disparus\)._
+Déconseillé par l'équipe : Provoque des **problèmes visuels** de disparition d'objets lorsque l'addon est mal configuré. (_Il suffit de le désactiver pour revoir ses items disparus)._
 {% endhint %}
 
 Bagnon est un addon bien pratique réunissant tous vos sacs ainsi que ceux de votre banque en un seul. Cette dernière est même consultable où que l'on soit via l'interface de Bagnon.
 
 ![](.gitbook/assets/4b7f7f80-a667-11e9-9754-8a91784eb82c.jpg)
 
-{% file src=".gitbook/assets/bagnon2.zip" %}
+{% file src=".gitbook/assets/Bagnon2.zip" %}
 
 ## bagnonscrap
 
-{% file src=".gitbook/assets/bagnonscrap.zip" %}
+{% file src=".gitbook/assets/BagnonScrap.zip" %}
 
 ## bagsaver
 
-{% file src=".gitbook/assets/bagsaver.zip" %}
+{% file src=".gitbook/assets/BagSaver.zip" %}
 
 ## bagsync
 
-{% file src=".gitbook/assets/bagsync.zip" %}
+{% file src=".gitbook/assets/BagSync.zip" %}
 
 ## bankitems
 
@@ -66,208 +66,207 @@ Vous avez bien envie de vous crafter un item, vous êtes presque sûr que votre 
 
 ![](.gitbook/assets/00233371.jpg)
 
-{% file src=".gitbook/assets/bankitems.zip" %}
+{% file src=".gitbook/assets/BankItems.zip" %}
 
 ## bankstack
 
-{% file src=".gitbook/assets/bankstack.zip" %}
+{% file src=".gitbook/assets/BankStack.zip" %}
 
 ## baudbag
 
-{% file src=".gitbook/assets/baudbag.zip" %}
+{% file src=".gitbook/assets/BaudBag.zip" %}
 
 ## baudmanifest
 
-{% file src=".gitbook/assets/baudmanifest.zip" %}
+{% file src=".gitbook/assets/BaudManifest.zip" %}
 
 ## bidbot
 
-{% file src=".gitbook/assets/bidbot.zip" %}
+{% file src=".gitbook/assets/Bidbot.zip" %}
 
 ## combuctor
 
-{% file src=".gitbook/assets/combuctor.zip" %}
+{% file src=".gitbook/assets/Combuctor.zip" %}
 
 ## crapaway
 
-{% file src=".gitbook/assets/crapaway.zip" %}
+{% file src=".gitbook/assets/CrapAway.zip" %}
 
 ## dropthecheapestthing
 
-{% file src=".gitbook/assets/dropthecheapestthing.zip" %}
+{% file src=".gitbook/assets/DropTheCheapestThing.zip" %}
 
 ## dumpster
 
-{% file src=".gitbook/assets/dumpster.zip" %}
+{% file src=".gitbook/assets/Dumpster.zip" %}
 
 ## farmit2
 
-{% file src=".gitbook/assets/farmit2.zip" %}
+{% file src=".gitbook/assets/FarmIt2 (1).zip" %}
 
 ## fbagofholding
 
-{% file src=".gitbook/assets/fbagofholding.zip" %}
+{% file src=".gitbook/assets/FBagOfHolding.zip" %}
 
 ## gbanker
 
-{% file src=".gitbook/assets/gbanker.zip" %}
+{% file src=".gitbook/assets/gBanker.zip" %}
 
 ## genie
 
-{% file src=".gitbook/assets/genie.zip" %}
+{% file src=".gitbook/assets/Genie.zip" %}
 
 ## guildbanksearch-7.2.0.1
 
-{% file src=".gitbook/assets/guildbanksearch-7.2.0.1.zip" %}
+{% file src=".gitbook/assets/GuildBankSearch-7.2.0.1.zip" %}
 
 ## guildbanksearch-8.0.0.0
 
-{% file src=".gitbook/assets/guildbanksearch-8.0.0.0.zip" %}
+{% file src=".gitbook/assets/GuildBankSearch-8.0.0.0.zip" %}
 
 ## guildbanksearch
 
-{% file src=".gitbook/assets/guildbanksearch.zip" %}
+{% file src=".gitbook/assets/GuildBankSearch.zip" %}
 
 ## iguard
 
-{% file src=".gitbook/assets/iguard.zip" %}
+{% file src=".gitbook/assets/iGuard.zip" %}
 
 ## itemguard
 
-{% file src=".gitbook/assets/itemguard.zip" %}
+{% file src=".gitbook/assets/ItemGuard.zip" %}
 
 ## itemlink
 
-{% file src=".gitbook/assets/itemlink.zip" %}
+{% file src=".gitbook/assets/ItemLink.zip" %}
 
 ## jpack
 
-{% file src=".gitbook/assets/jpack.zip" %}
+{% file src=".gitbook/assets/JPack.zip" %}
 
 ## karnicrap
 
-{% file src=".gitbook/assets/karnicrap.zip" %}
+{% file src=".gitbook/assets/KarniCrap.zip" %}
 
 ## krestack
 
-{% file src=".gitbook/assets/krestack.zip" %}
+{% file src=".gitbook/assets/kRestack.zip" %}
 
 ## linkepedia
 
-{% file src=".gitbook/assets/linkepedia.zip" %}
+{% file src=".gitbook/assets/Linkepedia.zip" %}
 
 ## lootdb
 
-{% file src=".gitbook/assets/lootdb.zip" %}
+{% file src=".gitbook/assets/LootDB.zip" %}
 
 ## looter
 
-{% file src=".gitbook/assets/looter.zip" %}
+{% file src=".gitbook/assets/Looter.zip" %}
 
 ## lootfilter
 
-{% file src=".gitbook/assets/lootfilter.zip" %}
+{% file src=".gitbook/assets/LootFilter.zip" %}
 
 ## ludwig
 
-{% file src=".gitbook/assets/ludwig.zip" %}
+{% file src=".gitbook/assets/Ludwig.zip" %}
 
 ## ludwig2
 
-{% file src=".gitbook/assets/ludwig2.zip" %}
+{% file src=".gitbook/assets/Ludwig2.zip" %}
 
 ## mobilevault
 
-{% file src=".gitbook/assets/mobilevault.zip" %}
+{% file src=".gitbook/assets/MobileVault.zip" %}
 
 ## mrplow
 
-{% file src=".gitbook/assets/mrplow.zip" %}
+{% file src=".gitbook/assets/MrPlow.zip" %}
 
 ## muchmoremunch
 
-{% file src=".gitbook/assets/muchmoremunch.zip" %}
+{% file src=".gitbook/assets/MuchMoreMunch.zip" %}
 
 ## neatfreak
 
-{% file src=".gitbook/assets/neatfreak.zip" %}
+{% file src=".gitbook/assets/Neatfreak.zip" %}
 
 ## oglow
 
-{% file src=".gitbook/assets/oglow.zip" %}
+{% file src=".gitbook/assets/oGlow.zip" %}
 
 ## onebag
 
-{% file src=".gitbook/assets/onebag.zip" %}
+{% file src=".gitbook/assets/OneBag.zip" %}
 
 ## onebank
 
-{% file src=".gitbook/assets/onebank.zip" %}
+{% file src=".gitbook/assets/OneBank.zip" %}
 
 ## outfitter
 
-{% file src=".gitbook/assets/outfitter.zip" %}
+{% file src=".gitbook/assets/Outfitter.zip" %}
 
 ## passloot
 
-{% file src=".gitbook/assets/passloot.zip" %}
+{% file src=".gitbook/assets/PassLoot.zip" %}
 
 ## scrap
 
-{% file src=".gitbook/assets/scrap.zip" %}
+{% file src=".gitbook/assets/Scrap.zip" %}
 
 ## sellgrey
 
-{% file src=".gitbook/assets/sellgrey.zip" %}
+{% file src=".gitbook/assets/SellGrey.zip" %}
 
 ## selljunk
 
-{% file src=".gitbook/assets/selljunk.zip" %}
+{% file src=".gitbook/assets/SellJunk.zip" %}
 
 ## sellomatic
 
-{% file src=".gitbook/assets/sellomatic.zip" %}
+{% file src=".gitbook/assets/SellOMatic.zip" %}
 
 ## sellomatic2
 
-{% file src=".gitbook/assets/sellomatic2.zip" %}
+{% file src=".gitbook/assets/SellOMatic2.zip" %}
 
 ## superloot
 
-{% file src=".gitbook/assets/superloot.zip" %}
+{% file src=".gitbook/assets/SuperLoot.zip" %}
 
 ## sushisort
 
-{% file src=".gitbook/assets/sushisort.zip" %}
+{% file src=".gitbook/assets/SushiSort.zip" %}
 
 ## tbag
 
-{% file src=".gitbook/assets/tbag.zip" %}
+{% file src=".gitbook/assets/TBag.zip" %}
 
 ## trashcan
 
-{% file src=".gitbook/assets/trashcan.zip" %}
+{% file src=".gitbook/assets/Trashcan.zip" %}
 
 ## uberinventory
 
-{% file src=".gitbook/assets/uberinventory.zip" %}
+{% file src=".gitbook/assets/UberInventory.zip" %}
 
 ## vault
 
-{% file src=".gitbook/assets/vault.zip" %}
+{% file src=".gitbook/assets/Vault.zip" %}
 
 ## xloot
 
 Xloot en dépit de modifier le skin de votre fenêtre de loot, il vous permet d'ajouter des options pour ce dernier.
 
 * Il permet d'afficher la fenêtre de loot directement sous votre souris.
-* Il permet d'afficher sur les canaux dire, chuchotement, crier, guilde, groupe, general etc... vos/votre loot\(s\).
+* Il permet d'afficher sur les canaux dire, chuchotement, crier, guilde, groupe, general etc... vos/votre loot(s).
 
- Pour afficher la petite fenêtre d'options, clique-droit sur "montrer tout..." en dessous des loots.
+&#x20;Pour afficher la petite fenêtre d'options, clique-droit sur "montrer tout..." en dessous des loots.
 
-{% file src=".gitbook/assets/xloot.zip" %}
+{% file src=".gitbook/assets/XLoot.zip" %}
 
 ## xlootmonitor
 
-{% file src=".gitbook/assets/xlootmonitor.zip" %}
-
+{% file src=".gitbook/assets/XLootMonitor.zip" %}

@@ -2,21 +2,30 @@
 
 ## Ace3
 
-{% file src=".gitbook/assets/ace3.zip" caption="Ace3" %}
+{% file src=".gitbook/assets/Ace3.zip" %}
+Ace3
+{% endfile %}
 
 ## AddonControlPanel
 
-{% file src=".gitbook/assets/addoncontrolpanel.zip" caption="AddonControlPanel" %}
+{% file src=".gitbook/assets/AddonControlPanel.zip" %}
+AddonControlPanel
+{% endfile %}
 
 ## Bazooka
 
-{% file src=".gitbook/assets/bazooka.zip" caption="Bazooka" %}
+{% file src=".gitbook/assets/Bazooka.zip" %}
+Bazooka
+{% endfile %}
 
 ## FuBar
 
-{% file src=".gitbook/assets/fubar.zip" caption="FuBar" %}
+{% file src=".gitbook/assets/FuBar.zip" %}
+FuBar
+{% endfile %}
 
 ## LootPlan
 
-{% file src=".gitbook/assets/lootplan.zip" caption="LootPlan" %}
-
+{% file src=".gitbook/assets/LootPlan.zip" %}
+LootPlan
+{% endfile %}

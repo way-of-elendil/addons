@@ -8,69 +8,100 @@ description: >-
 
 ## AlphaMap3
 
-{% file src=".gitbook/assets/alphamap3.zip" caption="AlphaMap3" %}
+{% file src=".gitbook/assets/AlphaMap3.zip" %}
+AlphaMap3
+{% endfile %}
 
 ## Atlas
 
-{% file src=".gitbook/assets/atlas.zip" caption="Atlas" %}
+{% file src=".gitbook/assets/Atlas.zip" %}
+Atlas
+{% endfile %}
 
 ## Cartographer
 
-{% file src=".gitbook/assets/cartographer.zip" caption="Cartographer" %}
+{% file src=".gitbook/assets/Cartographer.zip" %}
+Cartographer
+{% endfile %}
 
 ## Chinchilla
 
-{% file src=".gitbook/assets/chinchilla.zip" caption="Chinchilla" %}
+{% file src=".gitbook/assets/Chinchilla.zip" %}
+Chinchilla
+{% endfile %}
 
 ## Cromulent
 
-{% file src=".gitbook/assets/cromulent.zip" caption="Cromulent" %}
+{% file src=".gitbook/assets/Cromulent.zip" %}
+Cromulent
+{% endfile %}
 
 ## FlightMap
 
-{% file src=".gitbook/assets/flightmap.zip" caption="FlightMap" %}
+{% file src=".gitbook/assets/FlightMap.zip" %}
+FlightMap
+{% endfile %}
 
 ## Flightmap-moncai
 
-{% file src=".gitbook/assets/flightmap-moncai.zip" caption="Flightmap-moncai" %}
+{% file src=".gitbook/assets/Flightmap-moncai.zip" %}
+Flightmap-moncai
+{% endfile %}
 
 ## Mapster
 
-{% file src=".gitbook/assets/mapster.zip" caption="Mapster" %}
+{% file src=".gitbook/assets/Mapster.zip" %}
+Mapster
+{% endfile %}
 
 ## Minimap
 
-{% file src=".gitbook/assets/minimap.zip" caption="Minimap" %}
+{% file src=".gitbook/assets/Minimap.zip" %}
+Minimap
+{% endfile %}
 
 ## MobMap
 
-{% file src=".gitbook/assets/mobmap.zip" caption="MobMap" %}
+{% file src=".gitbook/assets/MobMap.zip" %}
+MobMap
+{% endfile %}
 
 ## pMinimap
 
-{% file src=".gitbook/assets/pminimap.zip" caption="pMinimap" %}
+{% file src=".gitbook/assets/pMinimap.zip" %}
+pMinimap
+{% endfile %}
 
 ## RareSpawnOverlay
 
-{% file src=".gitbook/assets/rarespawnoverlay.zip" caption="RareSpawnOverlay" %}
+{% file src=".gitbook/assets/RareSpawnOverlay.zip" %}
+RareSpawnOverlay
+{% endfile %}
 
 ## Routes
 
-{% file src=".gitbook/assets/routes.zip" caption="Routes" %}
+{% file src=".gitbook/assets/Routes.zip" %}
+Routes
+{% endfile %}
 
 ## SexyMap
 
 Sexymap est un addon qui modifie la minimap en haut à droite de votre écran de jeu, en effet celui-ci crée une animation graphique autour de celle-ci et supprime le menu des addons qui viennent se greffer autour de la minipap en temps normal, cependant lorsque vous passez votre souris dessus ils re-apparaissent.
 
-![](.gitbook/assets/az_mapunfaded.jpg)
+![](.gitbook/assets/az\_mapunfaded.jpg)
 
-{% file src=".gitbook/assets/sexymap.zip" caption="SexyMap" %}
+{% file src=".gitbook/assets/SexyMap.zip" %}
+SexyMap
+{% endfile %}
 
 ## WorldExplorer
 
-{% file src=".gitbook/assets/worldexplorer.zip" caption="WorldExplorer" %}
+{% file src=".gitbook/assets/WorldExplorer.zip" %}
+WorldExplorer
+{% endfile %}
 
 ## NPCScan Overlay
 
-{% file src=".gitbook/assets/\_npcscan.overlay.zip" caption="\_NPCScan.Overlay" %}
-
+{% file src=".gitbook/assets/_NPCScan.Overlay.zip" %}
+\_NPCScan.Overlay
+{% endfile %}

@@ -2,59 +2,86 @@
 
 ## ArmoryQuickLink
 
-{% file src=".gitbook/assets/armoryquicklink.zip" caption="ArmoryQuickLink" %}
+{% file src=".gitbook/assets/ArmoryQuickLink.zip" %}
+ArmoryQuickLink
+{% endfile %}
 
 ## CharacterProfiler
 
-{% file src=".gitbook/assets/characterprofiler.zip" caption="CharacterProfiler" %}
+{% file src=".gitbook/assets/CharacterProfiler.zip" %}
+CharacterProfiler
+{% endfile %}
 
 ## EquipCompare
 
-{% file src=".gitbook/assets/equipcompare.zip" caption="EquipCompare" %}
+{% file src=".gitbook/assets/EquipCompare.zip" %}
+EquipCompare
+{% endfile %}
 
 ## GearScore
 
 gearscore est une sorte de score d'équipement, plus votre équipement est de qualité, et de haut level, plus le gearscore est élevé, ainsi ce score est parfois employé par des guildes lors du recrutement de nouveaux joueurs, pour juger la force d'équipement d'un membre inconnu.
 
-{% file src=".gitbook/assets/gearscore.zip" caption="GearScore" %}
+{% file src=".gitbook/assets/GearScore.zip" %}
+GearScore
+{% endfile %}
 
 ## GearScoreLite
 
-{% file src=".gitbook/assets/gearscorelite.zip" caption="GearScoreLite" %}
+{% file src=".gitbook/assets/GearScoreLite.zip" %}
+GearScoreLite
+{% endfile %}
 
 ## Icetip
 
-{% file src=".gitbook/assets/icetip.zip" caption="Icetip" %}
+{% file src=".gitbook/assets/Icetip.zip" %}
+Icetip
+{% endfile %}
 
 ## InspectEquip
 
-{% file src=".gitbook/assets/inspectequip.zip" caption="InspectEquip" %}
+{% file src=".gitbook/assets/InspectEquip.zip" %}
+InspectEquip
+{% endfile %}
 
 ## Mendeleev
 
-{% file src=".gitbook/assets/mendeleev.zip" caption="Mendeleev" %}
+{% file src=".gitbook/assets/Mendeleev.zip" %}
+Mendeleev
+{% endfile %}
 
 ## MobInfo2
 
-{% file src=".gitbook/assets/mobinfo2.zip" caption="MobInfo2" %}
+{% file src=".gitbook/assets/MobInfo2.zip" %}
+MobInfo2
+{% endfile %}
 
 ## MoncaiCompare
 
-{% file src=".gitbook/assets/moncaicompare.zip" caption="MoncaiCompare" %}
+{% file src=".gitbook/assets/MoncaiCompare.zip" %}
+MoncaiCompare
+{% endfile %}
 
 ## Pawn
 
-{% file src=".gitbook/assets/pawn.zip" caption="Pawn" %}
+{% file src=".gitbook/assets/Pawn.zip" %}
+Pawn
+{% endfile %}
 
 ## RatingBuster
 
-{% file src=".gitbook/assets/ratingbuster.zip" caption="RatingBuster" %}
+{% file src=".gitbook/assets/RatingBuster.zip" %}
+RatingBuster
+{% endfile %}
 
 ## TipTop
 
-{% file src=".gitbook/assets/tiptop.zip" caption="TipTop" %}
+{% file src=".gitbook/assets/TipTop.zip" %}
+TipTop
+{% endfile %}
 
 ## WeightsWatcher
 
-{% file src=".gitbook/assets/weightswatcher.zip" caption="WeightsWatcher" %}
-
+{% file src=".gitbook/assets/WeightsWatcher.zip" %}
+WeightsWatcher
+{% endfile %}

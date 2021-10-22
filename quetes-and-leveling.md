@@ -10,35 +10,51 @@ CarboniteQuest est le principal concurrent de QuestHelper. Son avantage? Une int
 
 ![](.gitbook/assets/carbonite3.gif)
 
-{% file src=".gitbook/assets/carbonite.zip" caption="Carbonite" %}
+{% file src=".gitbook/assets/Carbonite.zip" %}
+Carbonite
+{% endfile %}
 
 ## DugisGuides
 
-{% file src=".gitbook/assets/dugisguides.zip" caption="DugisGuides" %}
+{% file src=".gitbook/assets/DugisGuides.zip" %}
+DugisGuides
+{% endfile %}
 
 ## ElvUI SmartQuestTracker
 
-{% file src=".gitbook/assets/elvui\_smartquesttracker.zip" caption="ElvUI\_SmartQuestTracker" %}
+{% file src=".gitbook/assets/ElvUI_SmartQuestTracker.zip" %}
+ElvUI\_SmartQuestTracker
+{% endfile %}
 
 ## EveryQuest
 
-{% file src=".gitbook/assets/everyquest.zip" caption="EveryQuest" %}
+{% file src=".gitbook/assets/EveryQuest.zip" %}
+EveryQuest
+{% endfile %}
 
 ## Factionizer
 
-{% file src=".gitbook/assets/factionizer.zip" caption="Factionizer" %}
+{% file src=".gitbook/assets/Factionizer.zip" %}
+Factionizer
+{% endfile %}
 
 ## GainTracker
 
-{% file src=".gitbook/assets/gaintracker.zip" caption="GainTracker" %}
+{% file src=".gitbook/assets/GainTracker.zip" %}
+GainTracker
+{% endfile %}
 
 ## LightHeaded
 
-{% file src=".gitbook/assets/lightheaded.zip" caption="LightHeaded" %}
+{% file src=".gitbook/assets/LightHeaded.zip" %}
+LightHeaded
+{% endfile %}
 
 ## ObjectiveAnnouncer
 
-{% file src=".gitbook/assets/objectiveannouncer.zip" caption="ObjectiveAnnouncer" %}
+{% file src=".gitbook/assets/ObjectiveAnnouncer.zip" %}
+ObjectiveAnnouncer
+{% endfile %}
 
 ## Quest Helper
 
@@ -48,31 +64,44 @@ Conseillé et validé par l'équipe !
 
 QuestHelper vous indiquera où et comment accomplir chaque quête au travers d'informations simples et lisibles.
 
-![](.gitbook/assets/afbudql.png)
+![](.gitbook/assets/aFbUDQl.png)
 
-{% file src=".gitbook/assets/questhelper.zip" caption="QuestHelper" %}
+{% file src=".gitbook/assets/QuestHelper.zip" %}
+QuestHelper
+{% endfile %}
 
 ## QuestPointer
 
-{% file src=".gitbook/assets/questpointer.zip" caption="QuestPointer" %}
+{% file src=".gitbook/assets/QuestPointer.zip" %}
+QuestPointer
+{% endfile %}
 
 ## QuickQuest
 
-{% file src=".gitbook/assets/quickquest.zip" caption="QuickQuest" %}
+{% file src=".gitbook/assets/QuickQuest.zip" %}
+QuickQuest
+{% endfile %}
 
 ## SmartQuest
 
-{% file src=".gitbook/assets/smartquest.zip" caption="SmartQuest" %}
+{% file src=".gitbook/assets/SmartQuest.zip" %}
+SmartQuest
+{% endfile %}
 
 ## TomTom
 
-{% file src=".gitbook/assets/tomtom.zip" caption="TomTom" %}
+{% file src=".gitbook/assets/TomTom.zip" %}
+TomTom
+{% endfile %}
 
 ## WhereToNow
 
-{% file src=".gitbook/assets/wheretonow.zip" caption="WhereToNow" %}
+{% file src=".gitbook/assets/WhereToNow.zip" %}
+WhereToNow
+{% endfile %}
 
 ## ZygorGuides
 
-{% file src=".gitbook/assets/zygorguides.zip" caption="ZygorGuides" %}
-
+{% file src=".gitbook/assets/ZygorGuides.zip" %}
+ZygorGuides
+{% endfile %}

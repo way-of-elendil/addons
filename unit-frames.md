@@ -4,73 +4,91 @@
 
 Personnalisation de certaines barres d'état :
 
-* Icon de profil \(nom, niveau\) du joueur et de la cible
-* Barre de vie, de mana, d'énergie, etc 
-* Icons de raids 
+* Icon de profil (nom, niveau) du joueur et de la cible
+* Barre de vie, de mana, d'énergie, etc&#x20;
+* Icons de raids&#x20;
 
 ![](.gitbook/assets/aloft-scr-2.jpg)
 
-{% file src=".gitbook/assets/aloft.zip" caption="Aloft" %}
+{% file src=".gitbook/assets/Aloft.zip" %}
+Aloft
+{% endfile %}
 
 ## Clique
 
 Permet de créer des raccourcis à la souris pour changer de cible rapidement.
 
-![](.gitbook/assets/cbltlfb.png)
+![](<.gitbook/assets/cblTLfB (1).png>)
 
-{% file src=".gitbook/assets/clique.zip" caption="Clique" %}
+{% file src=".gitbook/assets/Clique.zip" %}
+Clique
+{% endfile %}
 
 ## eCastingBar
 
-Modifie la barre de cast, et permet d'aligner les barres de cast du joueur, de sa cible, de son focus et de certains sorts \(respiration aquatique, marche sur l'eau, etc\)
+Modifie la barre de cast, et permet d'aligner les barres de cast du joueur, de sa cible, de son focus et de certains sorts (respiration aquatique, marche sur l'eau, etc)
 
 ![](.gitbook/assets/ecastingbar-bfa-scr-1.jpg)
 
-{% file src=".gitbook/assets/ecastingbar.zip" caption="eCastingBar" %}
+{% file src=".gitbook/assets/eCastingBar.zip" %}
+eCastingBar
+{% endfile %}
 
 ## KuiNameplates
 
-Personnalisation de la barre d'état. 
+Personnalisation de la barre d'état.&#x20;
 
-{% file src=".gitbook/assets/kuinameplates.zip" caption="KuiNameplates" %}
+{% file src=".gitbook/assets/KuiNameplates.zip" %}
+KuiNameplates
+{% endfile %}
 
 ## PitBull4
 
-Cet addon vous permet de modifier l'affichage de votre personnage, de votre familier, de votre cible,... Il propose de nombreuses options comme l'affichage de la cible de votre familier, l'affichage de l'UF lors du passage sur un personnage avec votre souris \(mouse-over\) ainsi que la cible de ce personnage \(mouse-over target's\).
+Cet addon vous permet de modifier l'affichage de votre personnage, de votre familier, de votre cible,... Il propose de nombreuses options comme l'affichage de la cible de votre familier, l'affichage de l'UF lors du passage sur un personnage avec votre souris (mouse-over) ainsi que la cible de ce personnage (mouse-over target's).
 
-![](.gitbook/assets/pitbull4%20%281%29.jpg)
+![](<.gitbook/assets/pitbull4 (1).jpg>)
 
-{% file src=".gitbook/assets/pitbull4.zip" caption="PitBull4" %}
+{% file src=".gitbook/assets/PitBull4.zip" %}
+PitBull4
+{% endfile %}
 
 ## PlateBuffs
 
-Permet d'afficher directement les débuffs au dessus de la barre d'état du joueur, et d'en modifier les dimensions. 
+Permet d'afficher directement les débuffs au dessus de la barre d'état du joueur, et d'en modifier les dimensions.&#x20;
 
 ![](.gitbook/assets/pvw58725.png)
 
-{% file src=".gitbook/assets/platebuffs.zip" caption="PlateBuffs" %}
+{% file src=".gitbook/assets/PlateBuffs.zip" %}
+PlateBuffs
+{% endfile %}
 
 ## Quartz
 
 Affiche la latence qui sépare le joueur et le serveur de jeu, cette latence est exprimé en rouge sur la barre de cast affiché par l'addon, ainsi le joueur peut anticiper celle-ci et lancé son sort plus rapidement, plus votre latence est grande, plus l'utilité de cette addon se fait sentir, vous pouvez gagner jusqu'à 0,3/0,4 secondes sur un cast de 3 secondes. De plus cette addon indique par une jauge vos prochaines attaques automatique CAC et attaques automatique à distance. Vous permet aussi de déplacer votre barre de cast.
 
-{% file src=".gitbook/assets/quartz.zip" caption="Quartz" %}
+{% file src=".gitbook/assets/Quartz.zip" %}
+Quartz
+{% endfile %}
 
 ## Shadowed Unit Frames
 
-Modification et simplification des barres d'état 
+Modification et simplification des barres d'état&#x20;
 
 ![](.gitbook/assets/pvw31446.png)
 
-{% file src=".gitbook/assets/shadowedunitframes.zip" caption="ShadowedUnitFrames" %}
+{% file src=".gitbook/assets/ShadowedUnitFrames.zip" %}
+ShadowedUnitFrames
+{% endfile %}
 
 ## SimpleUnitFrames
 
 Modification et simplification des barres d'état.
 
-![](.gitbook/assets/image%20%284%29.png)
+![](<.gitbook/assets/image (1).png>)
 
-{% file src=".gitbook/assets/simpleunitframes.zip" caption="SimpleUnitFrames" %}
+{% file src=".gitbook/assets/SimpleUnitFrames.zip" %}
+SimpleUnitFrames
+{% endfile %}
 
 ## Stuf Unit Frames
 
@@ -78,23 +96,29 @@ Modification et simplification des barres d'état.
 
 ![](.gitbook/assets/pvw23350.jpg)
 
-{% file src=".gitbook/assets/stuf.zip" caption="Stuf" %}
+{% file src=".gitbook/assets/Stuf.zip" %}
+Stuf
+{% endfile %}
 
 ## TidyPlates
 
-Addon permettant d'afficher directement les débuffs au dessus de la barre de vie. 
+Addon permettant d'afficher directement les débuffs au dessus de la barre de vie.&#x20;
 
-![](.gitbook/assets/image%20%281%29.png)
+![](<.gitbook/assets/image (2).png>)
 
-{% file src=".gitbook/assets/tidyplates.zip" caption="TidyPlates" %}
+{% file src=".gitbook/assets/TidyPlates.zip" %}
+TidyPlates
+{% endfile %}
 
 ## TidyPlates ThreatPlates
 
 Module complémentaire à TidyPlates permettant de modifier les barres d'état, l'affichage des débuffs et les textes d'état
 
-![](.gitbook/assets/image%20%283%29.png)
+![](<.gitbook/assets/image (3).png>)
 
-{% file src=".gitbook/assets/tidyplates\_threatplates.zip" caption="TidyPlates\_ThreatPlates" %}
+{% file src=".gitbook/assets/TidyPlates_ThreatPlates.zip" %}
+TidyPlates\_ThreatPlates
+{% endfile %}
 
 ## UnitFramesImproved
 
@@ -102,7 +126,7 @@ Modification et simplification des barres d'état.
 
 ![](.gitbook/assets/unitframesimproved-scr-2.jpg)
 
-{% file src=".gitbook/assets/unitframesimproved.zip" caption="UnitFramesImproved" %}
-
-
+{% file src=".gitbook/assets/UnitFramesImproved.zip" %}
+UnitFramesImproved
+{% endfile %}
 
