@@ -48,15 +48,13 @@ Conseillé et validé par l'équipe !
 **Deadly Boss Mods (DBM) :** Une interface dédiée aux raids, donjons, événements spéciaux qui vous aides dans les stratégies et phases de chaque boss. L'ultime aide à la rencontre pour vous donner des informations de combat faciles à traiter en un coup d'œil. DBM vise à se concentrer sur ce qui vous arrive et sur ce que VOUS devez faire pour y remédier.
 
 {% hint style="info" %}
-Cette version de DBM ne contient que l'assistance pour WOTLK\
+Cette version de DBM ne contient que l'assistance pour WOTLK (Veillez à bien extraire tous les fichiers)\
 Voir la version [BC+Classic](https://addons.way-of-elendil.fr/aide-aux-rencontres-pve#dbm-bc-and-vanilla-mods)
 {% endhint %}
 
 ![](.gitbook/assets/dbm2.jpg)
 
-{% file src=".gitbook/assets/DBM-Core-and-WotLK-Mods.zip" %}
-DBM core-and-wotlk-mods
-{% endfile %}
+{% file src=".gitbook/assets/DBM-TLK-7.11.zip" %}
 
 ## DBM bc-and-vanilla-mods
 
