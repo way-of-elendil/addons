@@ -96,6 +96,14 @@ ShockAndAwe
 Talented
 {% endfile %}
 
+## Track-o-Matique
+
+Addon chasseur, changement automatique du radar, en fonction de la cible
+
+{% file src=".gitbook/assets/Track-o-Matique-3.4.7.zip" %}
+Addon chasseur, changement automatique du radar, en fonction de la cible
+{% endfile %}
+
 ## TrainerSkills
 
 {% file src=".gitbook/assets/TrainerSkills.zip" %}
