@@ -20,4 +20,12 @@ C'est un addon qui surveille de nombreux sorts lancés par les membres de votre 
 Vue des sorts lancés par les membres du groupe/raid
 {% endfile %}
 
+## DetournV2
+
+Cet add-on annonce les Détournements sur le chat. Si vous êtes en raid avec une promotion, l' annonce sera dans le channel raid. "/det on" "/det off" active ou désactive l'addon.
+
+{% file src=".gitbook/assets/DetournV2.zip" %}
+Annonce des détournements
+{% endfile %}
+
 ##
