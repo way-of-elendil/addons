@@ -28,4 +28,12 @@ Cet add-on annonce les Détournements sur le chat. Si vous êtes en raid avec un
 Annonce des détournements
 {% endfile %}
 
+## RaidRoll
+
+Addon de gestion des loots pour un ML
+
+{% file src=".gitbook/assets/RaidRoll_4.4.15.zip" %}
+Gestion des loots pour un ML
+{% endfile %}
+
 ##
