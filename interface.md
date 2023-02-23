@@ -231,6 +231,46 @@ Titan Panel est une barre qui se place au dessus du jeu (voir screenshot ci-cont
 TitanPanel
 {% endfile %}
 
+## TitanFriends
+
+Titan ajout pour les Amis
+
+{% file src=".gitbook/assets/TitanFriends.zip" %}
+Titan ajout pour les Amis
+{% endfile %}
+
+## TitanGuild
+
+Titan ajout pour la guide
+
+{% file src=".gitbook/assets/TitanGuild_3_6g.zip" %}
+Titan ajout pour la guide
+{% endfile %}
+
+## TitanMana
+
+Titan ajout pour la regen mana
+
+{% file src=".gitbook/assets/TitanMana_v0.0.1_30100.zip" %}
+Titan ajout pour la regen mana
+{% endfile %}
+
+## TitanReputation
+
+Titan ajout pour la réputation
+
+{% file src=".gitbook/assets/TitanReputation.zip" %}
+Titan ajout pour la réputation
+{% endfile %}
+
+## TitanRoll
+
+Titan ajout pour le mode de butin
+
+{% file src=".gitbook/assets/TitanRoll-v0.51.zip" %}
+Titan ajout pour le mode de butin
+{% endfile %}
+
 ## Volumizer
 
 {% file src=".gitbook/assets/Volumizer.zip" %}
