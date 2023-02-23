@@ -50,6 +50,22 @@ GainTracker
 LightHeaded
 {% endfile %}
 
+## MonkeyQuest
+
+MonkeyQuest affiche les quêtes et leurs objectifs dans un joli cadre déplaçable de manière très personnalisable
+
+{% file src=".gitbook/assets/MonkeyQuest_v2.9.9.zip" %}
+Affichage quêtes et objectifs
+{% endfile %}
+
+## MonkeyBuddy
+
+Le mode MonkeyBuddy vous permet de configurer facilement votre MonkeyQuest avec une belle fenêtre de configuration au lieu de commandes slash désagréables. Cliquez simplement sur le petit singe dans le coin inférieur droit de la mini-carte pour ouvrir la fenêtre.
+
+{% file src=".gitbook/assets/MonkeyBuddy_v2.9.8.zip" %}
+Configuration facile MonkeyQuest
+{% endfile %}
+
 ## ObjectiveAnnouncer
 
 {% file src=".gitbook/assets/ObjectiveAnnouncer.zip" %}
