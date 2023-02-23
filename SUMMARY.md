@@ -21,6 +21,6 @@
 * [Plugins & Libraries](plugins-and-libraries.md)
 * [PvP](pvp.md)
 * [Quêtes & Leveling](quetes-and-leveling.md)
+* [Raids](raids.md)
 * [Tooltip](tooltip.md)
 * [Unit Frames](unit-frames.md)
-
