@@ -80,6 +80,14 @@ Gatherer est un addon particulièrement utile aux herboristes et mineurs ainsi q
 Gatherer
 {% endfile %}
 
+## Gatherer HUD
+
+HUD pour Gatherer
+
+{% file src=".gitbook/assets/GatherHud-v1.1.8.zip" %}
+HUD pour Gatherer
+{% endfile %}
+
 ## GatherMate
 
 Enregistrez l'emplacement des gisements, herbes et trésors que vous trouverez au cours de l'aventure grâce à GatherMate. Digne descendant de feu Gatherer, cet add-on recensera automatiquement les "spots" de farm sur lesquels vous cliquerez. Ainsi, vous saurez où et quoi chercher à tout moment. N'oubliez pas de télécharger GatherMate\_Data pour une efficacité optimale.
