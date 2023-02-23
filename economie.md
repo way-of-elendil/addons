@@ -4,82 +4,82 @@
 
 {% file src=".gitbook/assets/Accountant_Classic.zip" %}
 
-## accountant
+## Accountant
 
 {% file src=".gitbook/assets/Accountant.zip" %}
 
-## analyst
+## Analyst
 
 {% file src=".gitbook/assets/Analyst.zip" %}
 
-## auc-searcher-weightswatcher
+## Auc-searcher-weightswatcher
 
 {% file src=".gitbook/assets/Auc-Searcher-WeightsWatcher.zip" %}
 
-## auctionator
+## Auctionator
 
 {% file src=".gitbook/assets/Auctionator.zip" %}
 
-## auctioneersuite
+## Auctioneersuite
 
 {% file src=".gitbook/assets/AuctioneerSuite.zip" %}
 
-## auctionlite
+## Auctionlite
 
 {% file src=".gitbook/assets/AuctionLite.zip" %}
 
-## auctionmaster
+## Auctionmaster
 
 {% file src=".gitbook/assets/AuctionMaster.zip" %}
 
-## auctionprofitmaster
+## Auctionprofitmaster
 
 {% file src=".gitbook/assets/AuctionProfitMaster.zip" %}
 
-## auctionsnatch
+## Auctionsnatch
 
 {% file src=".gitbook/assets/Auctionsnatch.zip" %}
 
-## auditor2
+## Auditor2
 
 {% file src=".gitbook/assets/Auditor2.zip" %}
 
-## baudauction
+## Baudauction
 
 {% file src=".gitbook/assets/BaudAuction.zip" %}
 
-## currency
+## Currency
 
 {% file src=".gitbook/assets/Currency.zip" %}
 
-## guilddonationhelper
+## Guilddonationhelper
 
 {% file src=".gitbook/assets/GuildDonationHelper.zip" %}
 
-## lilsparkysworkshop
+## Lilsparkysworkshop
 
 {% file src=".gitbook/assets/LilSparkysWorkshop.zip" %}
 
-## marcopolo
+## Marcopolo
 
 {% file src=".gitbook/assets/MarcoPolo.zip" %}
 
-## marketwatcher
+## Marketwatcher
 
 {% file src=".gitbook/assets/MarketWatcher.zip" %}
 
-## quickauctions
+## Quickauctions
 
 {% file src=".gitbook/assets/QuickAuctions.zip" %}
 
-## slyprofits
+## Slyprofits
 
 {% file src=".gitbook/assets/SlyProfits.zip" %}
 
-## tradeskillmaster
+## Tradeskillmaster
 
 {% file src=".gitbook/assets/TradeSkillMaster.zip" %}
 
-## xmerchant
+## Xmerchant
 
 {% file src=".gitbook/assets/xMerchant.zip" %}
