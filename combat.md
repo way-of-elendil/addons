@@ -4,6 +4,16 @@ description: Soutien visuel dans votre gestion de combat en PvE comme en PvP
 
 # Combat
 
+##
+
+## Attack-bar
+
+Une barre de progression pour vos attaques
+
+{% file src=".gitbook/assets/Attack-bar-5.6.zip" %}
+Barre de progression des attaques
+{% endfile %}
+
 ## Combo Points Redux
 
 {% file src=".gitbook/assets/ComboPointsRedux.zip" %}
