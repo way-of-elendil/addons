@@ -74,6 +74,14 @@ Pawn
 RatingBuster
 {% endfile %}
 
+## TekKompare
+
+Comparateur équipement
+
+{% file src=".gitbook/assets/tekKompare.zip" %}
+Comparateur équipement
+{% endfile %}
+
 ## TipTop
 
 {% file src=".gitbook/assets/TipTop.zip" %}
