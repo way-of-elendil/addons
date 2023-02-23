@@ -4,11 +4,11 @@ description: Réinventons le sac à dos façon Decathlon
 
 # Inventaire
 
-## adibags
+## Adibags
 
 {% file src=".gitbook/assets/AdiBags.zip" %}
 
-## altoholic
+## Altoholic
 
 {% file src=".gitbook/assets/Altoholic.zip" %}
 
@@ -32,7 +32,7 @@ Vend tout les objets "gris" de votre inventaire, paramétrable pour un meilleur 
 
 {% file src=".gitbook/assets/AutoVendor.zip" %}
 
-## baggins
+## Baggins
 
 {% file src=".gitbook/assets/Baggins.zip" %}
 
@@ -48,19 +48,19 @@ Bagnon est un addon bien pratique réunissant tous vos sacs ainsi que ceux de vo
 
 {% file src=".gitbook/assets/Bagnon2.zip" %}
 
-## bagnonscrap
+## Bagnonscrap
 
 {% file src=".gitbook/assets/BagnonScrap.zip" %}
 
-## bagsaver
+## Bagsaver
 
 {% file src=".gitbook/assets/BagSaver.zip" %}
 
-## bagsync
+## Bagsync
 
 {% file src=".gitbook/assets/BagSync.zip" %}
 
-## bankitems
+## Bankitems
 
 Vous avez bien envie de vous crafter un item, vous êtes presque sûr que votre reroll a les composants adéquats sans pour autant en être sûr... Inutile de déco/reco, Bank Item vous permettra de voir les sacs à dos et emplacements de banque de tous vos personnages sur n'importe quel serveur, et ce où que vous soyez.
 
@@ -68,43 +68,43 @@ Vous avez bien envie de vous crafter un item, vous êtes presque sûr que votre 
 
 {% file src=".gitbook/assets/BankItems.zip" %}
 
-## bankstack
+## Bankstack
 
 {% file src=".gitbook/assets/BankStack.zip" %}
 
-## baudbag
+## Baudbag
 
 {% file src=".gitbook/assets/BaudBag.zip" %}
 
-## baudmanifest
+## Baudmanifest
 
 {% file src=".gitbook/assets/BaudManifest.zip" %}
 
-## bidbot
+## Bidbot
 
 {% file src=".gitbook/assets/Bidbot.zip" %}
 
-## combuctor
+## Combuctor
 
 {% file src=".gitbook/assets/Combuctor.zip" %}
 
-## crapaway
+## Crapaway
 
 {% file src=".gitbook/assets/CrapAway.zip" %}
 
-## dropthecheapestthing
+## Dropthecheapestthing
 
 {% file src=".gitbook/assets/DropTheCheapestThing.zip" %}
 
-## dumpster
+## Dumpster
 
 {% file src=".gitbook/assets/Dumpster.zip" %}
 
-## farmit2
+## Farmit2
 
 {% file src=".gitbook/assets/FarmIt2 (1).zip" %}
 
-## fbagofholding
+## Fbagofholding
 
 {% file src=".gitbook/assets/FBagOfHolding.zip" %}
 
@@ -112,19 +112,19 @@ Vous avez bien envie de vous crafter un item, vous êtes presque sûr que votre 
 
 {% file src=".gitbook/assets/gBanker.zip" %}
 
-## genie
+## Genie
 
 {% file src=".gitbook/assets/Genie.zip" %}
 
-## guildbanksearch-7.2.0.1
+## Guildbanksearch-7.2.0.1
 
 {% file src=".gitbook/assets/GuildBankSearch-7.2.0.1.zip" %}
 
-## guildbanksearch-8.0.0.0
+## Guildbanksearch-8.0.0.0
 
 {% file src=".gitbook/assets/GuildBankSearch-8.0.0.0.zip" %}
 
-## guildbanksearch
+## Guildbanksearch
 
 {% file src=".gitbook/assets/GuildBankSearch.zip" %}
 
@@ -132,63 +132,63 @@ Vous avez bien envie de vous crafter un item, vous êtes presque sûr que votre 
 
 {% file src=".gitbook/assets/iGuard.zip" %}
 
-## itemguard
+## Itemguard
 
 {% file src=".gitbook/assets/ItemGuard.zip" %}
 
-## itemlink
+## Itemlink
 
 {% file src=".gitbook/assets/ItemLink.zip" %}
 
-## jpack
+## Jpack
 
 {% file src=".gitbook/assets/JPack.zip" %}
 
-## karnicrap
+## Karnicrap
 
 {% file src=".gitbook/assets/KarniCrap.zip" %}
 
-## krestack
+## kRestack
 
 {% file src=".gitbook/assets/kRestack.zip" %}
 
-## linkepedia
+## Linkepedia
 
 {% file src=".gitbook/assets/Linkepedia.zip" %}
 
-## lootdb
+## Lootdb
 
 {% file src=".gitbook/assets/LootDB.zip" %}
 
-## looter
+## Looter
 
 {% file src=".gitbook/assets/Looter.zip" %}
 
-## lootfilter
+## Lootfilter
 
 {% file src=".gitbook/assets/LootFilter.zip" %}
 
-## ludwig
+## Ludwig
 
 {% file src=".gitbook/assets/Ludwig.zip" %}
 
-## ludwig2
+## Ludwig2
 
 {% file src=".gitbook/assets/Ludwig2.zip" %}
 
-## mobilevault
+## Mobilevault
 
 {% file src=".gitbook/assets/MobileVault.zip" %}
 
-## mrplow
+## Mrplow
 
 {% file src=".gitbook/assets/MrPlow.zip" %}
 
-## muchmoremunch
+## MuchMoreMunch
 
 {% file src=".gitbook/assets/MuchMoreMunch.zip" %}
 
-## neatfreak
+## Neatfreak
 
 {% file src=".gitbook/assets/Neatfreak.zip" %}
 
@@ -196,67 +196,67 @@ Vous avez bien envie de vous crafter un item, vous êtes presque sûr que votre 
 
 {% file src=".gitbook/assets/oGlow.zip" %}
 
-## onebag
+## Onebag
 
 {% file src=".gitbook/assets/OneBag.zip" %}
 
-## onebank
+## Onebank
 
 {% file src=".gitbook/assets/OneBank.zip" %}
 
-## outfitter
+## Outfitter
 
 {% file src=".gitbook/assets/Outfitter.zip" %}
 
-## passloot
+## Passloot
 
 {% file src=".gitbook/assets/PassLoot.zip" %}
 
-## scrap
+## Scrap
 
 {% file src=".gitbook/assets/Scrap.zip" %}
 
-## sellgrey
+## Sellgrey
 
 {% file src=".gitbook/assets/SellGrey.zip" %}
 
-## selljunk
+## Selljunk
 
 {% file src=".gitbook/assets/SellJunk.zip" %}
 
-## sellomatic
+## SellOMatic
 
 {% file src=".gitbook/assets/SellOMatic.zip" %}
 
-## sellomatic2
+## SellOMatic2
 
 {% file src=".gitbook/assets/SellOMatic2.zip" %}
 
-## superloot
+## SuperLoot
 
 {% file src=".gitbook/assets/SuperLoot.zip" %}
 
-## sushisort
+## SushiSort
 
 {% file src=".gitbook/assets/SushiSort.zip" %}
 
-## tbag
+## TBag
 
 {% file src=".gitbook/assets/TBag.zip" %}
 
-## trashcan
+## Trashcan
 
 {% file src=".gitbook/assets/Trashcan.zip" %}
 
-## uberinventory
+## Uberinventory
 
 {% file src=".gitbook/assets/UberInventory.zip" %}
 
-## vault
+## Vault
 
 {% file src=".gitbook/assets/Vault.zip" %}
 
-## xloot
+## Xloot
 
 Xloot en dépit de modifier le skin de votre fenêtre de loot, il vous permet d'ajouter des options pour ce dernier.
 
@@ -267,6 +267,6 @@ Xloot en dépit de modifier le skin de votre fenêtre de loot, il vous permet d'
 
 {% file src=".gitbook/assets/XLoot.zip" %}
 
-## xlootmonitor
+## Xlootmonitor
 
 {% file src=".gitbook/assets/XLootMonitor.zip" %}
