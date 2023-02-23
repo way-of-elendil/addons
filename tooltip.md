@@ -74,6 +74,14 @@ Pawn
 RatingBuster
 {% endfile %}
 
+## Swatter
+
+Bloqueur d'erreurs lua
+
+{% file src=".gitbook/assets/Swatter.zip" %}
+Bloqueur d'erreurs lua
+{% endfile %}
+
 ## TekKompare
 
 Comparateur équipement
