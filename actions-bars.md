@@ -16,7 +16,7 @@ Fonctionne avec n'importe quelle interface personnalisée comme les bongos, à c
 ActionBarSaver
 {% endfile %}
 
-## autobar
+## Autobar
 
 AutoBar est un mod multi-barres qui ajoute automatiquement des potions, de l'eau, de la nourriture, des quêtes et d'autres éléments que vous spécifiez dans les boutons pour une utilisation facile.
 
@@ -31,7 +31,7 @@ WoW propose des milliers d'articles que vous pouvez obtenir. AutoBar organise au
 
 {% file src=".gitbook/assets/AutoBar.zip" %}
 
-## bartender
+## Bartender
 
 {% hint style="success" %}
 Conseillé et validé par l'équipe !
@@ -43,7 +43,7 @@ Bartender v4 est un modificateur de barre d'action, celui replace toute vos barr
 
 {% file src=".gitbook/assets/Bartender4 (1).zip" %}
 
-## binder
+## Binder
 
 Cet addon vous permettra de sauvegarder vos raccourcis clavier actuels sous forme de profil, que vous nommerez et pour lequel vous pourrez créer une description (aucune description n'est requise). Ces profils sont basés sur des comptes, ce qui signifie que vous pouvez accéder aux mêmes profils sur n'importe lequel de vos personnages sur le même compte.
 
@@ -51,7 +51,7 @@ Cet addon vous permettra de sauvegarder vos raccourcis clavier actuels sous form
 
 {% file src=".gitbook/assets/Binder.zip" %}
 
-## buttonfacade
+## Buttonfacade
 
 Masque est un add-on pour World of Warcraft qui fournit un moteur de skinning pour les add-ons basés sur des boutons.&#x20;
 
@@ -75,7 +75,7 @@ Cet addon affiche un grand nombre jaune (et du texte pour les nombres > 60 secon
 
 {% file src=".gitbook/assets/CooldownCount.zip" %}
 
-## chocolatebar
+## Chocolatebar
 
 ChocolateBar créera une barre en haut ou en bas de votre écran où d'autres addons appelés plugins de courtage peuvent afficher des choses comme vos fps par exemple.
 
@@ -83,7 +83,7 @@ ChocolateBar créera une barre en haut ou en bas de votre écran où d'autres ad
 
 {% file src=".gitbook/assets/ChocolateBar (2).zip" %}
 
-## cooldowns
+## Cooldowns
 
 {% hint style="success" %}
 Conseillé et validé par l'équipe !
@@ -95,7 +95,7 @@ Add-on permettant de voir le cooldown de vos attaque (c'est à dire le temps res
 
 {% file src=".gitbook/assets/Cooldowns.zip" %}
 
-## dominos
+## Dominos
 
 Dominos est un addon permettant de mettre les barres de sort, d'XP, d'actions, etc... où vous le voulez sur votre écran.
 

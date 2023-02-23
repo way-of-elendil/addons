@@ -75,7 +75,7 @@ Voir[ la version TLK ](https://addons.way-of-elendil.fr/aide-aux-rencontres-pve#
 DBM bc-and-vanilla-mods
 {% endfile %}
 
-## Defileguard
+## defileguard
 
 Cet addon fournit plusieurs messages d'avertissement spéciaux pour le défilé du roi-liche en mode 25er hard. Les messages sont affichés en vert, rouge ou orange. Des sons supplémentaires sont joués pour aider le joueur.
 
@@ -85,7 +85,7 @@ Cet addon fournit plusieurs messages d'avertissement spéciaux pour le défilé 
 Defile Guard
 {% endfile %}
 
-## Fatality
+## fatality
 
 Fatality est un simple addon de rapport de décès qui annonce les informations sur le(s) dernier(s) coup(s) qu'une personne a pris avant de mourir.
 
