@@ -153,6 +153,14 @@ SkillMonitor affiche une barre de progression qui montre l'évolution d'une comp
 SkillMonitor
 {% endfile %}
 
+## SpellReminder
+
+Traqueur de buffs et débuffs, avec un affichage par barres Compatible avec PowerAura ou WeakAura
+
+{% file src=".gitbook/assets/SpellReminder-v2.1a.zip" %}
+Traqueur buffs/debuffs
+{% endfile %}
+
 ## TellMeWhen
 
 TellMeWhen est un addon WoW qui fournit des notifications visuelles, auditives et textuelles sur les cooldowns, les buffs et presque tous les autres éléments du combat.&#x20;
