@@ -66,6 +66,14 @@ Minimap
 MobMap
 {% endfile %}
 
+## MozzFullWorldMap
+
+Révélateur de carte
+
+{% file src=".gitbook/assets/MozzFullWorldMap_3.36.30304.zip" %}
+Révélateur de carte
+{% endfile %}
+
 ## pMinimap
 
 {% file src=".gitbook/assets/pMinimap.zip" %}
