@@ -20,6 +20,14 @@ Acherus
 AssassinTimer
 {% endfile %}
 
+## CLCRet
+
+L'addon affiche ce que vous devez faire en Paladin rétribution. Ne fournit pas de boutons cliquables pour le faire.
+
+{% file src=".gitbook/assets/CLCRet-v.1.3.03.025.zip" %}
+Aide paladin Ret
+{% endfile %}
+
 ## DruidStats
 
 {% file src=".gitbook/assets/DruidStats.zip" %}
