@@ -36,4 +36,12 @@ Addon de gestion des loots pour un ML
 Gestion des loots pour un ML
 {% endfile %}
 
+## RankWatch
+
+Scan les rangs des sorts lancé par le groupe ou le raid, et avertit des sorts lancés avec le mauvais rang
+
+{% file src=".gitbook/assets/RankWatch-v1.11 (1).zip" %}
+Rangs des sorts lancés
+{% endfile %}
+
 ##
