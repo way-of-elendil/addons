@@ -88,6 +88,14 @@ Comparateur équipement
 TipTop
 {% endfile %}
 
+## TrinketMenu
+
+Ajout de 2 boutons supplémentaires pour les bijoux
+
+{% file src=".gitbook/assets/TrinketMenu_3_81.zip" %}
+Ajout de 2 boutons supplémentaires pour les bijoux
+{% endfile %}
+
 ## WeightsWatcher
 
 {% file src=".gitbook/assets/WeightsWatcher.zip" %}
