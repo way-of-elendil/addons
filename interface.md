@@ -60,6 +60,70 @@ ElvUI\_SmartQuestTracker
 FuBar
 {% endfile %}
 
+## Fubar sacs
+
+FuBar ajout pour les sacs
+
+{% file src=".gitbook/assets/FuBar_BagFu-v1.1.7.zip" %}
+FuBar ajout pour les sacs
+{% endfile %}
+
+## Fubar clock
+
+FuBar ajout pour l'heure
+
+{% file src=".gitbook/assets/FuBar_ClockFu-v3.2.0.0.zip" %}
+FuBar ajout pour l'heure
+{% endfile %}
+
+## Fubar durability
+
+FuBar ajout pour la durabilité de l'équipement
+
+{% file src=".gitbook/assets/FuBar_DurabilityFu-r127.zip" %}
+FuBar ajout pour la durabilité de l'équipement
+{% endfile %}
+
+## Fubar faction
+
+FuBar ajout pour les réputations
+
+{% file src=".gitbook/assets/FuBar_FactionsFu-r81.zip" %}
+FuBar ajout pour les réputations
+{% endfile %}
+
+## Fubar guilde
+
+FuBar ajout pour la guilde (attention provoque des freezes s'il y a plus de 80 joueurs affichés)
+
+{% file src=".gitbook/assets/FuBar_GuildFu-r117.zip" %}
+FuBar ajout pour la guilde&#x20;
+{% endfile %}
+
+## Fubar location
+
+FuBar ajout pour les coordonnées
+
+{% file src=".gitbook/assets/FuBar_LocationFu-drsproinky-r140-stable-nolib.zip" %}
+FuBar ajout pour les coordonnées
+{% endfile %}
+
+## Fubar money
+
+FuBar ajout pour l'or du jeu, personnage et compte
+
+{% file src=".gitbook/assets/FuBar_MoneyFu-v1.2.3.zip" %}
+FuBar ajout pour l'or du jeu, personnage et compte
+{% endfile %}
+
+## Fubar performance
+
+FuBar ajout pour les statistiques de performances
+
+{% file src=".gitbook/assets/FuBar_PerformanceFu-r148.zip" %}
+FuBar ajout pour les statistiques de performances
+{% endfile %}
+
 ## Grid
 
 Outil d'interface de raid pouvant être paramétré pour afficher :
