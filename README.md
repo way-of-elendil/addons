@@ -21,7 +21,7 @@ C:\World of Warcraft 335a\Interface\AddOns
 Collez votre Addon dézippé directement dans ce dossier AddOns, et c'est tout, votre AddOn est installé !
 
 {% hint style="danger" %}
-Faites attention à toujour avoir une arborescence comme suit : _**Dossier > Fichiers**_** ** \
+Faites attention à toujour avoir une arborescence comme suit : _**Dossier > Fichiers**_ \
 Et surtout pas _**Dossier > Dossier > Fichiers**_**,** dans ce cas, le jeu ne détectera pas votre AddOn\
 [Exemple d'un AddOn bien installé](https://screens.way-of-elendil.fr/mFZao3fS.png) _(voir l'arborescence: AddOns **>** DBM-Icecrown **> Fichiers**)_
 {% endhint %}

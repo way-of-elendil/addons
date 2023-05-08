@@ -10,6 +10,12 @@ description: Facilitez vous la quête de hauts-faits
 AutoGratzer
 {% endfile %}
 
+## GutPet
+
+Cet addon liste toutes les montures et mascottes selon les critères définis
+
+{% file src=".gitbook/assets/GupPet_v1.241.zip" %}
+
 ## NPCScan
 
 {% hint style="success" %}
