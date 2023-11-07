@@ -177,8 +177,6 @@ WeakAuras est un cadre puissant et flexible qui permet l'affichage de graphiques
 
 ![](.gitbook/assets/wa\_3.1.5.PNG)
 
-##
-
 {% file src=".gitbook/assets/WeakAuras-WotLK-4.0.0.zip" %}
 
 ## Whammy
