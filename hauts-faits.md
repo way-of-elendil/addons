@@ -22,13 +22,16 @@ Cet addon liste toutes les montures et mascottes selon les critères définis
 Conseillé et validé par l'équipe !
 {% endhint %}
 
-NPCScan est un addon qui vous averti lorsqu'un monstre rare est proche de vous. Il permet notamment d'achever les hauts faits nécessitant de tuer des monstres rare et difficile à trouver. Add-on discret qui ne se manifeste que lorsqu'il repère un monstre de ce type. npc scan
+NPCScan est un addon qui vous averti lorsqu'un monstre rare est proche de vous. Il permet notamment d'achever les hauts faits nécessitant de tuer des monstres rare et difficile à trouver. Add-on discret qui ne se manifeste que lorsqu'il repère un monstre de ce type. npc scan\
+Fonctionne avec l'Overlay
 
 ![](.gitbook/assets/unnamed.jpg)
 
-{% file src=".gitbook/assets/NPCScan.zip" %}
+{% file src=".gitbook/assets/_NPCScan.rar" %}
 NPCScan
 {% endfile %}
+
+{% file src=".gitbook/assets/_NPCScan.Overlay.rar" %}
 
 ## Overachiever
 
