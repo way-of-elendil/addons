@@ -14,8 +14,6 @@ Il s'agit d'un addon permettant de créer des timers pour vos propres buffs et d
 ClassTimer
 {% endfile %}
 
-[**Lien vidéo d'introduction à WeakAuras**](https://www.youtube.com/watch?v=uV0E6XTyRH4)
-
 ## DebuffFilter
 
 Cet addon filtre les debuffs et les buffs dont vous ne vous souciez pas, et les place n'importe où sur l'écran. Si vous êtes une classe de mêlée, vous pouvez tout filtrer sauf CoR, FF et Sunder. Si vous êtes un lanceur, vous pouvez simplement afficher les déboutures comme CoE et Winter's Chill. Les guérisseurs peuvent tout filtrer sauf leurs buffs et HoTs, etc.
@@ -180,6 +178,8 @@ WeakAuras est un cadre puissant et flexible qui permet l'affichage de graphiques
 ![](.gitbook/assets/wa\_3.1.5.PNG)
 
 {% file src=".gitbook/assets/WeakAuras-WotLK-4.0.0.zip" %}
+[**Lien vidéo d'introduction à WeakAuras**](https://www.youtube.com/watch?v=uV0E6XTyRH4)
+{% endfile %}
 
 ## Whammy
 
