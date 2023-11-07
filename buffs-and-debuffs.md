@@ -171,13 +171,15 @@ TellMeWhen est un addon WoW qui fournit des notifications visuelles, auditives e
 TellMeWhen
 {% endfile %}
 
-## WeakAuras 3.2.3
+## WeakAuras 4.0.0
 
 WeakAuras est un cadre puissant et flexible qui permet l'affichage de graphiques hautement personnalisables sur l'interface utilisateur de World of Warcraft pour indiquer les buffs, les débuffs et d'autres informations pertinentes. Cet addon a été créé pour remplacer légèrement les Power Auras, mais a depuis introduit plus de fonctionnalités tout en restant efficace et facile à utiliser.
 
 ![](.gitbook/assets/wa\_3.1.5.PNG)
 
-{% file src=".gitbook/assets/WeakAuras-WotLK-3.2.3 (1).zip" %}
+##
+
+{% file src=".gitbook/assets/WeakAuras-WotLK-4.0.0.zip" %}
 
 ## Whammy
 
