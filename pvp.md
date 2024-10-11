@@ -32,17 +32,17 @@ Doom\_CooldownPulse
 
 Gladius ajoute des images de l'unité ennemie en PvP pour le ciblage afin de se concentrer plus facilement sur ses cibles. Il est hautement configurable et vous pouvez désactiver la plupart des caractéristiques de cet addon.
 
-{% file src=".gitbook/assets/Gladius.zip" %}
-Gladius
-{% endfile %}
+{% file src=".gitbook/assets/Gladius (1).zip" %}
 
-## Gladius2
+## Gladiminish
 
-Gladius v2 ajoute des images de l'unité ennemie en PvP pour le ciblage afin de se concentrer plus facilement sur ses cibles. Il est hautement configurable et vous pouvez désactiver la plupart des caractéristiques de cet addon.
+{% hint style="info" %}
+Requiert l'addon Gladius pour fonctionner
+{% endhint %}
 
-{% file src=".gitbook/assets/Gladius2.zip" %}
-Gladius2
-{% endfile %}
+Gladiminish est un addon exclusif à l'arène, affichant les rendements décroissants de manière simple et rapidement lisible, à côté du cadre de l'addon Gladius. Les rendements décroissants sont affichés sous forme d'icônes, montrant la compétence concernée et sa durée restante dans une couleur différente, en fonction de l'efficacité des contrôles de foule suivants.
+
+{% file src=".gitbook/assets/Gladiminish.zip" %}
 
 ## MaloWAscensionAddons
 
