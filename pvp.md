@@ -32,6 +32,8 @@ Doom\_CooldownPulse
 
 Gladius ajoute des images de l'unité ennemie en PvP pour le ciblage afin de se concentrer plus facilement sur ses cibles. Il est hautement configurable et vous pouvez désactiver la plupart des caractéristiques de cet addon.
 
+<figure><img src=".gitbook/assets/gladius.png" alt=""><figcaption></figcaption></figure>
+
 {% file src=".gitbook/assets/Gladius (1).zip" %}
 
 ## Gladiminish
@@ -41,6 +43,8 @@ Requiert l'addon Gladius pour fonctionner
 {% endhint %}
 
 Gladiminish est un addon exclusif à l'arène, affichant les rendements décroissants de manière simple et rapidement lisible, à côté du cadre de l'addon Gladius. Les rendements décroissants sont affichés sous forme d'icônes, montrant la compétence concernée et sa durée restante dans une couleur différente, en fonction de l'efficacité des contrôles de foule suivants.
+
+<figure><img src=".gitbook/assets/636142178727559007.jpg" alt=""><figcaption></figcaption></figure>
 
 {% file src=".gitbook/assets/Gladiminish.zip" %}
 
