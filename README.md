@@ -12,7 +12,7 @@ Téléchargez l'addon de votre choix au format ZIP, puis dezippez le.
 
 Rendez vous dans votre dossier World of Warcraft et plus précisément le dossier **Interfaces > Addons**
 
-```bash
+```
 C:\World of Warcraft 335a\Interface\AddOns
 ```
 
