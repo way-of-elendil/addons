@@ -30,6 +30,14 @@ AdvancedTradeSkillWindow
 Bloodhound
 {% endfile %}
 
+## ProfessionPointer
+
+<div><figure><img src=".gitbook/assets/Screen001.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Screen002.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Screen003.png" alt=""><figcaption></figcaption></figure></div>
+
+Cet addon permet d'afficher, directement dans l'infobulle, une ou plusieurs icônes de métiers associés à un objet lorsqu'on survole celui-ci avec le curseur. Il offre la possibilité de sélectionner les métiers à afficher et d'ajuster la taille des icônes pour une meilleure lisibilité
+
+{% file src=".gitbook/assets/ProfessionPointer.rar" %}
+
 ## EnhancedTradeSkillUI
 
 {% file src=".gitbook/assets/EnhancedTradeSkillUI.zip" %}
