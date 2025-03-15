@@ -16,7 +16,7 @@ Rendez vous dans votre dossier World of Warcraft et plus précisément le dossie
 C:\World of Warcraft 335a\Interface\AddOns
 ```
 
-![Vous devriez voir une liste d'addons déjà existants](.gitbook/assets/screenshot\_918.png)
+![Vous devriez voir une liste d'addons déjà existants](.gitbook/assets/screenshot_918.png)
 
 Collez votre Addon dézippé directement dans ce dossier AddOns, et c'est tout, votre AddOn est installé !
 
@@ -26,11 +26,11 @@ Et surtout pas _**Dossier > Dossier > Fichiers**_**,** dans ce cas, le jeu ne d�
 [Exemple d'un AddOn bien installé](https://screens.way-of-elendil.fr/mFZao3fS.png) _(voir l'arborescence: AddOns **>** DBM-Icecrown **> Fichiers**)_
 {% endhint %}
 
-## &#x20;Activer un AddOn sur Worlf of Warcraft
+## &#x20;Activer un AddOn sur World of Warcraft
 
 Lancer World of Warcraft et arrêtez vous sur la page qui affiche vos personnages. Cliquez sur le bouton Add-ons en bas à gauche de votre personnage :&#x20;
 
-![](<.gitbook/assets/screenshot\_921 (1).png>)
+![](<.gitbook/assets/screenshot_921 (1).png>)
 
 Cochez simplement votre AddOn pour l'activer au sein du jeu.
 
@@ -38,7 +38,7 @@ Cochez simplement votre AddOn pour l'activer au sein du jeu.
 Si vous ne voyez pas votre AddOn dans la liste, cochez "**Lancer les add-ons périmés**" visible en haut à droite de cette fenêtre.&#x20;
 {% endhint %}
 
-![](<.gitbook/assets/screenshot\_922 (1).png>)
+![](<.gitbook/assets/screenshot_922 (1).png>)
 
 Si votre AddOn n'apparait toujours pas dans la liste, il n'est peut être pas compatible avec l'extension Wrath of The Lich King. Il vous faudra trouver une version compatible ou une alternative.
 
