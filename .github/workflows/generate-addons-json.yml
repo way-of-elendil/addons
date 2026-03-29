@@ -1,0 +1,56 @@
+name: Generate & Deploy addons.json
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  generate-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate addons.json
+        run: node parse-addons.js
+
+      - name: Upload addons.json to FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          port: ${{ vars.FTP_PORT || 21 }}
+          local-dir: ./
+          server-dir: ${{ vars.FTP_DESTINATION }}
+          include: addons.json
+
+      - name: Upload addon zips to FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          port: ${{ vars.FTP_PORT || 21 }}
+          local-dir: ./.gitbook/assets/
+          server-dir: ${{ vars.FTP_DESTINATION }}addons/
+          include: "*.zip"
+
+      - name: Upload addon images to FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          port: ${{ vars.FTP_PORT || 21 }}
+          local-dir: ./.gitbook/assets/
+          server-dir: ${{ vars.FTP_DESTINATION }}assets/
+          include: "*.{jpg,jpeg,png,gif,webp}"
